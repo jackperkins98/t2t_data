@@ -78,7 +78,7 @@ def parse_problem_name(problem_name):
 
 def _lookup_problem_hparams_fn(name):
   if name not in PROBLEM_HPARAMS_MAP:
-    map_str = "\n* ".join(PROBLEM_HPARAMS_MAP.keys())
+    map_str = "* " + "\n* ".join(sorted(PROBLEM_HPARAMS_MAP.keys()))
     error_msg = "%s not in the supported set of problems:\n%s" % (name, map_str)
     raise ValueError(error_msg)
   return PROBLEM_HPARAMS_MAP.get(name)
@@ -664,14 +664,27 @@ def image_mscoco_tokens(model_hparams, vocab_count):
   }
   p.batch_size_multiplier = 256
   p.max_expected_batch_size_per_shard = 2
+
+
+def img2img_imagenet(unused_model_hparams):
+  """Image 2 Image for imagenet dataset."""
+  p = default_problem_hparams()
+  p.input_modality = {"inputs": ("image:identity", None)}
+  p.target_modality = ("image:identity", None)
+  p.batch_size_multiplier = 256
+  p.max_expected_batch_size_per_shard = 4
   p.input_space_id = 1
-  p.target_space_id = 3
+  p.target_space_id = 1
   return p
 
 
 # Dictionary of named hyperparameter settings for various problems.
 # This is only accessed through the problem_hparams function below.
 PROBLEM_HPARAMS_MAP = {
+    "sequence_tagger_tokens_128k": lambda p: wmt_enfr_tokens(p, 2**17),
+    "sequence_tagger_tokens_32k": lambda p: wmt_enfr_tokens(p, 2**15),
+    "sequence_tagger_tokens_8k": lambda p: wmt_enfr_tokens(p, 2**13),
+    "sequence_tagger": wmt_enfr_characters,
     "algorithmic_addition_binary40": lambda p: algorithmic(4, p),
     "algorithmic_addition_decimal40": lambda p: algorithmic(12, p),
     "algorithmic_identity_binary40": lambda p: algorithmic(4, p),
@@ -732,4 +745,5 @@ PROBLEM_HPARAMS_MAP = {
     "image_mscoco_tokens_128k_tune": lambda p: image_mscoco_tokens(p, 2**17),
     "image_mscoco_tokens_128k_test": lambda p: image_mscoco_tokens(p, 2**17),
     "image_imagenet": image_imagenet,
+    "img2img_imagenet": img2img_imagenet,
 }

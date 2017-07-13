@@ -32,7 +32,14 @@ import tensorflow as tf
 # End-of-sentence marker (should correspond to the position of EOS in the
 # RESERVED_TOKENS list in text_encoder.py)
 EOS = 1
+def seq_character_generator(train):
+  character_vocab = text_encoder.ByteTextEncoder()
+  return character_generator("input.txt", "target.txt", character_vocab, EOS)
 
+def seq_token_generator(tmp_dir, train, vocab_size):
+  symbolizer_vocab = generator_utils.generate_tokens(
+      tmp_dir, "tokens.vocab.%d" % vocab_size, vocab_size, "input.txt", "target.txt")
+  return token_generator("input.txt", "target.txt", symbolizer_vocab, EOS)
 
 def character_generator(source_path, target_path, character_vocab, eos=None):
   """Generator for sequence-to-sequence tasks that just uses characters.
