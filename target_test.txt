@@ -1,0 +1,1906 @@
+O O communication O change GROUP O cognition O O O O EVENT O COMMUNICATION O
+O O O communication O Recipient O Superset O PERSON O
+O motion Destination O ACT O GROUP O O cognition O Stimulus O ACT O
+O motion Manner O O social O ACT O O
+O O O TIME O ARTIFACT change O
+FOOD O O FOOD O FOOD ARTIFACT O O O FOOD ARTIFACT Function O ARTIFACT O O O stative O
+O O O stative O stative Location COGNITION Location GROUP O O stative O Stimulus O COGNITION O ACT O social Location GROUP O
+O O ARTIFACT O stative LOCATION O O B O O GROUP O O O O LOCATION stative O O O
+stative POSSESSION O motion O O O
+RelativeTime O social GROUP O Time O TIME O O stative O Stimulus O O ACT stative Location O LOCATION GROUP O
+O stative O O
+O O
+O O O O stative Location O LOCATION Purpose social O COGNITION O O O O
+O ACT O PERSON O
+O stative O O POSSESSION O O possession O O POSSESSION Value PERSON O O O PERSON O O cognition O COGNITION Species FOOD O O PERSON motion Direction O O O O cognition O
+O ARTIFACT O O change O O O ARTIFACT stative O O
+O PERSON O
+motion O Approximator O O O O O motion O O O
+GROUP stative O O O GROUP O Location LOCATION O O stative Activity COGNITION O O ACT O
+O O B O O
+O O O stative COMMUNICATION O O
+O O O O O O
+O O ACT O stative O O EVENT change O O O O
+O emotion O EVENT O O O O O Location O LOCATION O O O O social O O O
+O POSSESSION GROUP O O ACT GROUP stative O O O social O O O
+O O O
+O O cognition O STATE O EndState O COGNITION O O O motion O O cognition O stative O
+PERSON O Superset PERSON stative O O O communication O O COGNITION O O change Time O O O O O O social O O communication O Recipient O PERSON O O Explanation O O O ACT o stative O O
+B communication
+consumption O Patient Or O FOOD O O O O communication Topic O FOOD O
+O ACT
+O PERSON O
+O stative O stative O O ATTRIBUTE GROUP ACT O O stative O Stimulus O O GROUP ARTIFACT O
+Time ACT O stative O O O ARTIFACT O stative O O ARTIFACT Quantity NATURAL OBJECT stative O Location O ARTIFACT O O ARTIFACT O O O stative O O ARTIFACT O Purpose change O ARTIFACT O O ARTIFACT O ARTIFACT O stative Direction change O ARTIFACT O contact Direction O ARTIFACT O O O ARTIFACT O stative O ARTIFACT O
+O stative O GROUP Attribute FOOD O O O Attribute GROUP O cognition PERSON O PERSON O O O
+O emotion O PERSON O GROUP ProfessionalAspect O GROUP O change LOCATION ARTIFACT Location O LOCATION O O stative Location O O LOCATION O
+O O cognition O O
+COMMUNICATION O GROUP O
+O O O communication O social o o O Purpose cognition Recipient O O O O PERSON Location O COGNITION stative O O
+TIME O social Purpose O EVENT O Duration EVENT O O O GROUP stative O O Accompanier Approximator O O PERSON O
+O O motion O O O cognition ACT O O
+O stative O O EVENT O O cognition O O O O stative O O O
+O cognition O ARTIFACT O stative O O O O O communication O O stative Circumstance O O COGNITION O
+O O social O O
+O O social O O B ARTIFACT O O O O BODY ACT O
+O O GROUP O
+O O O cognition Theme O O FOOD FOOD O Or O O O O
+GROUP cognition O O social O o O communication O communication Co-Agent O O O O O O O PERSON O O cognition O
+O O O O stative O O O
+O stative O GROUP O
+O FOOD stative O O O ARTIFACT O O
+O O social O O
+Location O LOCATION GROUP perception Comparison/Contrast O O stative O O
+O O social PERSON O O O GROUP O O Superset O GROUP O O EVENT O stative O O O
+O O O O O cognition O consumption O ANIMAL O O O social O O o O Purpose social O O O O
+GROUP O O O COGNITION O O COGNITION ACT O ARTIFACT ARTIFACT O O stative O O TIME DeicticTime O
+O MOTIVE O motion Direction stative O O PERSON stative O O O 0
+O O stative Location O ARTIFACT O Location O ARTIFACT O O
+O communication O O O O cognition O Theme O COGNITION Species O O O ACT O O
+O O State O COGNITION Beneficiary O PERSON O ANIMAL O
+FOOD O stative O O O Attribute ATTRIBUTE O O O FOOD perception O Location O FOOD O
+RelativeTime O cognition O O stative B O COGNITION O change o ARTIFACT O O O stative b ĩ-QUANTITY O Quantity O O O ACT O O social O
+O O COGNITION O ACT
+O O O O creation Material O FOOD O
+O O PERSON stative O O O O O
+O change O FOOD O
+O stative O COGNITION PERSON O
+O O PERSON possession O O O Approximator O QUANTITY Whole O GROUP possession O O motion O stative O Patient O POSSESSION Possessor O ACT ACT O O GROUP O O O O
+O communication Theme O FOOD FOOD O O possession O O ARTIFACT O O O
+O O O communication O GROUP Recipient O PERSON O
+O GROUP ProfessionalAspect GROUP O stative o ARTIFACT O Duration O RelativeTime O cognition EVENT O
+O O cognition O O O O cognition FOOD O O O O Superset O O FOOD O
+O O POSSESSION Location O
+O O motion ARTIFACT Beneficiary O B O EVENT O O stative O O O Stimulus O ACT O
+O O O O Beneficiary PERSON O O Reciprocation O O EVENT O
+GROUP O O stative O O POSSESSION EVENT Location O O O
+O O social GROUP O Duration O O O TIME O
+O PERSON O O social O O
+O stative O O
+O GROUP stative O
+O stative O ACT Donor/Speaker PERSON O GROUP O O stative O cognition Comparison/Contrast O COMMUNICATION O GROUP Location O LOCATION Whole O NATURAL OBJECT O
+O O O
+O O stative motion Destination PERSON ProfessionalAspect GROUP O O stative O Superset O O O GROUP PERSON Location O LOCATION O
+O O social O communication O O O social Location LOCATION O O stative O InitialLocation LOCATION O O O O cognition Stimulus ACT O O O emotion LOCATION Extent O O O O O O O O O O O O
+O O LOCATION O
+O motion o Direction Attribute O QUANTITY O
+O EVENT Stimulus GROUP O O O stative O Attribute FEELING O FEELING O
+O stative Extent O O O GROUP Location O QUANTITY O cognition O O cognition O
+O O cognition O LOCATION O O O O stative Location O O
+O cognition o O Explanation O O Superset MOTIVE O
+O O O body o BODY O Duration O TIME Approximator O motion O Purpose stative O QUANTITY body O O
+O stative O PERSON Duration TIME Instance O O
+GROUP O ARTIFACT O change Approximator O O O O NATURAL OBJECT O O O ARTIFACT O stative O ACT RELATION Value Approximator O O O O O ARTIFACT POSSESSION O
+O O stative O O O FOOD O
+O O cognition o b O O O O ACT o O O social o O O Theme O GROUP O GROUP O
+O stative O O COMMUNICATION Extent O O O
+possession O O 0 O creation 0 FOOD SHAPE O O O ATTRIBUTE Superset O O
+O ARTIFACT ARTIFACT Location LOCATION
+GROUP O stative O O Quantity O O O
+O FOOD O stative O O O InitialLocation O O ARTIFACT O
+O O O O stative O Beneficiary O O EVENT O O O stative O O O O stative O O COGNITION O
+O ARTIFACT O O ACT O
+O O O
+O ACT O ATTRIBUTE O stative O
+O O ARTIFACT stative Time O O O O stative Location O O O LOCATION Time O O O TIME O O O
+O O O O emotion O GROUP O O O
+O Superset ARTIFACT O O O ARTIFACT ARTIFACT O ARTIFACT O O ARTIFACT O O
+O stative O O GROUP Function body o BODY O O
+O O PERSON O emotion O social O Time O TIME State o O O
+GROUP O O O stative o ACT Duration O TIME TIME O O O O stative O O O
+PERSON O O PERSON O PERSON emotion o O O O GROUP O O O stative Activity COGNITION O O O O O O COGNITION O stative O GROUP Location LOCATION O Explanation O cognition O O PERSON O stative O O ARTIFACT O O cognition PERSON O O O O O communication O
+PERSON O ATTRIBUTE O Beneficiary GROUP O O O
+O O
+O O social O GROUP O O cognition Stimulus O O O GROUP stative O O O O COGNITION Beneficiary O ANIMAL O
+O ACT GROUP O O stative Location LOCATION O O communication Location O LOCATION O LOCATION O stative LOCATION O O
+B COMMUNICATION Donor/Speaker O O O Superset O EVENT PERSON O
+O FOOD Value O O POSSESSION
+O O O O O O Time TIME O
+POSSESSION stative O O O FOOD O O stative Approximator O O O TIME O stative POSSESSION FOOD POSSESSION O O cognition O
+O O communication O O stative Location LOCATION Location LOCATION O
+PERSON O COGNITION Topic O GROUP O ARTIFACT Locus O POSSESSION O O stative O cognition O Attribute O COGNITION O possession O O O O
+O GROUP Location LOCATION
+O stative O O FOOD O Location O LOCATION O O communication O O O cognition O consumption O O FOOD O
+O social O Duration O TIME O O O TIME B O stative O O
+O motion O Destination GROUP Duration O TIME O cognition O ARTIFACT O
+O EVENT EVENT stative O FOOD Scalar/Rank O PERSON O consumption Value Approximator O O O
+GROUP O O O social O o O change O ARTIFACT O
+O O O O O O O communication O possession O POSSESSION O
+O O O Circumstance O O O O EVENT O O O communication O O O O PERSON Purpose O communication o o O O
+O GROUP O O
+O O O O O motion O ARTIFACT Circumstance O Location O Purpose social O COGNITION O
+ARTIFACT stative COGNITION O O O O
+O communication O stative O LOCATION O Location Location LOCATION O
+O O O O O O O stative O O ANIMAL Direction B O O TIME RelativeTime O stative State InitialLocation ACT O
+O PERSON motion Destination O LOCATION O cognition O O ARTIFACT O COGNITION O O communication O COGNITION O stative O B O O O O O O motion Destination O GROUP Explanation O ARTIFACT O O stative O O communication O O O O
+O communication GROUP Location O LOCATION O GROUP O communication O O COMMUNICATION stative O O O communication o possession O O Theme O O O O
+O ACT O
+O GROUP Function social O GROUP O social O Co-Agent GROUP O
+O emotion O TIME Location GROUP O O O
+O COGNITION Time O TIME O B O
+cognition O O O social o GROUP O O O
+O ACT O
+O O COGNITION O
+O O O FOOD FOOD O O FOOD O Location O FOOD O
+O FOOD O
+O O O possession O O
+O GROUP stative Extent O O O O O motion O O
+O O COGNITION O stative O O GROUP stative O ACT O
+O O O O QUANTITY Quantity COGNITION O
+PERSON O PERSON stative O O O O O GROUP O communication O social Patient O ARTIFACT O PERSON motion O Direction O perception O COGNITION O stative O GROUP O PERSON O O stative O
+O O O motion O O
+O O communication O motion O FOOD Manner O O O cognition O consumption O O
+RelativeTime motion Destination ACT PERSON O stative O O O Topic ARTIFACT O O motion O O PERSON O PERSON communication O O
+O GROUP stative O O social O Duration O COGNITION PROCESS O O O ACT Agent O GROUP O GROUP O stative O O
+stative Destination O GROUP O B O O
+O O cognition O emotion O GROUP Explanation O social O Location O LOCATION O
+O FOOD stative O O O O O O perception O
+O communication O GROUP O O O EVENT RelativeTime O O social Theme O O TIME ARTIFACT O
+O FOOD stative O O O O O
+O stative O O FOOD O O O O O perception O
+O O O cognition Circumstance O COGNITION Extent O O O stative O O O O stative O O
+O ACT O O POSSESSION O
+O communication o O O
+O O O O O motion O O Direction O o O Purpose motion O O O O O stative O cognition O Explanation O O stative O Beneficiary O O DeicticTime O O O O stative O COGNITION O
+cognition O possession POSSESSION O O O O GROUP O stative O O o O O
+O PERSON ProfessionalAspect O GROUP stative O O O social O RelativeTime O EVENT EVENT O
+O O social o O O O O stative O O O Purpose cognition O O ANIMAL social O o O ProfessionalAspect GROUP O O O
+Circumstance O ACT O COGNITION stative O O O O O O O stative O O O
+O emotion O O ARTIFACT O
+O COMMUNICATION O O O
+O cognition O O O Theme TIME POSSESSION O O O O stative O O COGNITION O Quantity PERSON O
+O perception ANIMAL O O O O O O GROUP O consumption Location O ARTIFACT O
+O O O O O ACT O
+B O O O O possession Theme POSSESSION O O O possession O O GROUP GROUP stative O O O O
+O ACT ACT
+O O stative O O O O PERSON O O stative O O O PERSON O O O O O O social Duration O TIME O
+O PERSON ProfessionalAspect GROUP O stative O O O O O
+PERSON GROUP O
+O ATTRIBUTE stative O O O O O
+O ARTIFACT ACT GROUP O B communication O
+O FOOD stative B Extent O O O O O stative O RELATION QUANTITY O ATTRIBUTE O
+O ACT stative O O O O O O O O Attribute stative O O
+O QUANTITY Quantity TIME consumption TIME O change BODY O O
+Duration O O O O O EVENT O O stative O O B O cognition O O COMMUNICATION Source COMMUNICATION ARTIFACT B O COMMUNICATION O O O creation O O COMMUNICATION Manner FEELING O
+O O cognition O PERSON O O communication Recipient O O communication O O social O Or cognition o O O O O cognition O O O communication Topic O O communication PROCESS Location O GROUP O communication O stative O O cognition O O O O O cognition Beneficiary O O motion Destination O PERSON O O stative O O Beneficiary O O
+FOOD O O O O
+O COGNITION O O COGNITION O O GROUP O O FOOD
+O O motion O O O
+O O ACT O O GROUP O O
+RelativeTime O EVENT O O PERSON cognition O O LOCATION Location O GROUP O O O O communication O O stative O O O O PERSON O social O perception Stimulus O GROUP O O O O O O O change O EVENT O O O cognition O emotion O FOOD COMMUNICATION O
+O O social O GROUP O
+COMMUNICATION O O communication Recipient GROUP O O Location O O O
+O communication O O PERSON motion Time O Time O TIME Purpose change o O O
+O O ACT O O O cognition O DeicticTime B TIME O
+O PERSON O stative O O Topic O ATTRIBUTE Possessor O ARTIFACT O possession Goal O
+O O communication Recipient O ACT PERSON O
+O O social O O stative O O
+O O O O O O PERSON O O O PERSON stative O COGNITION O O O O O O creation FOOD Location O O O Superset LOCATION O
+O stative O O possession O O ARTIFACT O O O ARTIFACT O O O Superset O O ARTIFACT O O motion O Explanation O O O ACT
+O O O O ARTIFACT stative Attribute O O ATTRIBUTE Scalar/Rank O ARTIFACT InitialLocation GROUP O O O O creation O o O O Agent PERSON social State O COGNITION Location LOCATION O
+TIME O O O O EVENT social Location GROUP O O O O stative O O EVENT O
+O O COGNITION O stative O Locus O O COMMUNICATION Locus GROUP O
+O motion o ARTIFACT O Purpose stative O 0 ARTIFACT O 0 O cognition DeicticTime Time TIME Whole O O
+social O TIME 0 EVENT 0 O O O cognition Topic Means communication Locus O O COMMUNICATION COMMUNICATION O
+O O stative O TIME O O emotion O O O O TIME O
+GROUP O O stative B O O
+O O emotion O Topic PERSON O stative O O stative O O O
+O cognition O O O O cognition O O O O cognition O O O O social O cognition O communication o COMMUNICATION O o O O O stative O COGNITION O O O O emotion O O COGNITION stative Theme O POSSESSION Possessor O ARTIFACT O POSSESSION O
+O O cognition O communication O O
+O stative O O GROUP
+O ARTIFACT O
+O stative O B O O ACT Agent GROUP O O O
+O O O ARTIFACT O
+O stative O B O O ACT O
+O O social Location GROUP O ARTIFACT Duration O TIME O
+Elements O O O O COGNITION O O O Superset O PERSON O stative O O communication O O O O stative Topic O O ARTIFACT O O emotion stative O O Superset O ARTIFACT O O O body O O
+O stative O O O
+O stative B O O o O Source O PERSON O O PERSON O PERSON cognition O O O
+O O possession O ARTIFACT Value Approximator O O O O creation O O O COGNITION O
+O stative O Purpose COGNITION O O FOOD O O Circumstance GROUP Elements GROUP O O GROUP O O O COGNITION FOOD GROUP Location O LOCATION O O O
+O O GROUP Function O O EVENT O
+O social ProfessionalAspect PERSON O O social o O O O O
+O O Reciprocation social O change o O O
+O FOOD O FOOD Attribute O O ATTRIBUTE
+O O O
+O O O cognition O Location O ARTIFACT O O communication COMMUNICATION O O motion O ARTIFACT O O O O O O possession O O ARTIFACT O O 0 communication 0
+O LOCATION O O LOCATION LOCATION Whole LOCATION O O LOCATION O O stative O LOCATION Experiencer GROUP O O
+O O O consumption FOOD Duration O O O TIME O O O O motion Destination O FOOD GROUP Location LOCATION LOCATION O Location O LOCATION O O O O GROUP Location LOCATION O O O O social O FOOD GROUP O O cognition o o FOOD GROUP O O
+O O ARTIFACT O O stative O O O communication O O ATTRIBUTE O O Explanation O O PERSON ACT O O O ATTRIBUTE O change O ARTIFACT O O change EndState O ATTRIBUTE O O O o O O
+O FOOD FOOD Location LOCATION
+O possession O O B O Theme ARTIFACT ARTIFACT O O O
+O PERSON
+PERSON O social o O cognition Stimulus O COGNITION O O O O stative O O cognition O stative B O O O communication O O O cognition O O stative O COGNITION O
+O cognition O cognition O Attribute O B PERSON O O cognition O communication O O ARTIFACT O O stative O O change O ARTIFACT O
+O O O
+motion Direction O stative InitialLocation O O Duration O TIME Attribute O O O POSSESSION O cognition O O O O O possession O O O O stative O COGNITION O Circumstance O COGNITION O COMMUNICATION O O O stative O O stative O O O POSSESSION Locus O O
+O O O motion O O
+Purpose communication o O O O O O motion Destination RELATION Whole GROUP O
+O ACT stative O O Duration TIME O stative O change O O O O ACT stative O O
+O stative O B O B O O
+cognition O O Superset O COGNITION O GROUP social Location LOCATION O LOCATION O O
+O O O social GROUP O O
+O O O O O O COMMUNICATION stative Location O GROUP O
+O O cognition O O cognition O O GROUP Function consumption O
+O social O O O Location O LOCATION Whole O ARTIFACT O
+GROUP social O Purpose social O GROUP Manner O O STATE O
+O O contact change o O O O O O cognition EndTime O body O Purpose perception O O O perception Comparison/Contrast State O O STATE O
+O social o o O Purpose O BODY O O
+O ARTIFACT O stative O O
+cognition Comparison/Contrast O stative Location LOCATION O O O O stative O O
+O body O O COGNITION Stimulus social O PERSON EndTime O social O O body Agent PERSON O O
+B communication
+O O social Destination GROUP O O O PERSON O social O O Theme O GROUP O
+O O O stative O O COGNITION possession InitialLocation GROUP O
+O stative O Approximator O O EVENT Location GROUP O O
+O emotion motion Direction O O O social O
+O O ACT O COGNITION stative O O
+O GROUP O O O stative O O O
+O O O stative o o ACT Value O O POSSESSION O
+O O ARTIFACT O
+O O O
+B o Possessor O O
+O
+O stative O B Stimulus O ACT O O O O B Stimulus O QUANTITY QUANTITY O O O ARTIFACT ACT O O ATTRIBUTE Possessor O FOOD Value O POSSESSION O
+O communication O O change O O O O communication O O stative O O
+O O communication Theme O O EVENT O
+O O emotion O O social O EVENT O stative O Stimulus O ATTRIBUTE O ATTRIBUTE Possessor O PERSON O O O O ACT O O
+O GROUP Location LOCATION O
+O perception O O O perception Comparison/Contrast O STATE Comparison/Contrast STATE O
+O O O GROUP O
+O ATTRIBUTE O FOOD Location O O COGNITION
+O stative O O GROUP O
+PERSON O stative O O O Time O TIME O O O stative O O O social O O O O
+O POSSESSION stative O O O O O stative O ACT Patient GROUP O O Time O TIME O
+stative O FOOD Location O GROUP O O O O communication O stative O O
+O O stative o O O O cognition O O O emotion O
+O cognition O stative TIME O change O O communication o EVENT O
+O COGNITION Species ACT O social stative O O O
+GROUP motion O O possession O O POSSESSION O Purpose motion Location O ARTIFACT O
+O O O
+O O communication O O O O stative O O PERSON O
+PERSON O PERSON stative O O
+GROUP O O O Reciprocation social O
+O O O contact Location O ARTIFACT Purpose cognition O O NATURAL OBJECT O B O COGNITION O
+GROUP O stative O O O O PERSON O
+O ACT Patient O ARTIFACT O O POSSESSION stative O O
+O O stative O PERSON O COMMUNICATION cognition O O cognition O possession O O O O Scalar/Rank O O O cognition O
+O O
+O stative O COMMUNICATION stative O O Or communication O PERSON Explanation O stative O Approximator O O Approximator O O cognition O
+O emotion O O
+O O ATTRIBUTE stative Location O PERSON LOCATION O O O GROUP stative O O O stative O ATTRIBUTE O O emotion Topic O GROUP O
+O stative O O
+O stative PERSON O PERSON social O Purpose change o SUBSTANCE ĩ-ARTIFACT O O
+O stative DeicticTime O TIME DeicticTime O body o o O O O O body Time O PHENOMENON O
+O social O O LOCATION ATTRIBUTE ARTIFACT O O O stative O communication stative O O
+emotion O GROUP O
+O PERSON O O motion O Purpose EVENT TIME O
+O O stative O O O cognition O O GROUP O O POSSESSION stative O O Theme O O ARTIFACT cognition Location O LOCATION GROUP O O POSSESSION stative O O O O O O O
+GROUP stative O O O O ARTIFACT Location O O O communication O O O communication O O stative O Or B O O stative O O
+O PERSON O stative stative O O O stative O O O O O O O stative O social Comparison/Contrast O O communication Recipient O PERSON O Comparison/Contrast O PERSON O
+O O PERSON O O O FOOD
+O PERSON stative O O O EVENT O stative O Purpose cognition O O ARTIFACT O POSSESSION O
+O O communication O O stative O O FOOD O O O cognition stative O O change O ARTIFACT O Co-Theme O O O FOOD Location O O GROUP O
+O O Reciprocation PERSON O O GROUP O
+O stative Elements O o O O O O
+O FOOD O O stative O FOOD Location O O
+O
+O COGNITION Species ARTIFACT O O POSSESSION O O COMMUNICATION O
+PERSON O O O PERSON O GROUP O O O
+O O
+GROUP creation O O FOOD O stative O COGNITION O
+O ARTIFACT perception Stimulus O ARTIFACT SUBSTANCE O O change O stative O B O TIME RelativeTime O motion O O
+O O O EVENT O O consumption O
+O O O O Theme contact O ARTIFACT O
+O FOOD GROUP stative O Superset O O 2DArea O FOOD stative O O O O O FOOD FOOD stative O O O stative o o FOOD O O O O O O Recipient O O GROUP
+O stative O Activity O ACT O O stative Manner O BODY O
+O BODY perception O O O O stative COMMUNICATION TIME O O O
+O cognition O motion O Duration B O EVENT Co-Agent O PERSON O O O communication Theme O O ARTIFACT O O
+O O O communication O PERSON O GROUP O
+O ACT O
+O O TIME O O O O cognition O ARTIFACT O O O O PERSON stative o O O
+O stative O Superset O O LOCATION O O social O O change o EVENT O O motion Destination O LOCATION O
+O stative O consumption O FOOD O FOOD O O O stative O O O
+O stative O O O Scalar/Rank GROUP O O O ATTRIBUTE ACT O
+O O O stative O ARTIFACT change O O O stative O PERSON social EVENT Location O LOCATION O O RelativeTime O O O O stative O O
+O stative O O O O social O O o O Purpose cognition O O stative O O
+FOOD O cognition o GROUP O O
+O stative O O Beneficiary PERSON O
+ARTIFACT O O O O O O ARTIFACT O
+O stative O COGNITION Possessor O O GROUP O LOCATION O
+O O O
+O O cognition O stative O POSSESSION Co-Theme O POSSESSION O O POSSESSION O Explanation O O O possession Theme O ARTIFACT O O communication O stative O O O
+COGNITION O stative O O O
+O GROUP O O O motion InitialLocation O LOCATION O LOCATION Destination O O LOCATION Location LOCATION O O O
+O GROUP O
+O GROUP O
+O BODY O O perception O O O O O
+O GROUP stative O O
+motion LOCATION O Destination O GROUP O O O O
+O O stative O social Location LOCATION O O stative O O B O O O O O O O O GROUP O
+O PHENOMENON stative O O O
+O stative O Theme O COMMUNICATION O social Co-Agent O GROUP Purpose stative POSSESSION Theme O ACT O
+O O O social O O O cognition O stative O O O cognition O
+O stative O O O communication O
+B QUANTITY Quantity FOOD o FOOD O change O O
+O O O O motion Destination LOCATION O Purpose O O ACT O O
+O O stative O change STATE O O
+O PERSON stative O O O communication O Topic O communication O POSSESSION O O O communication O O communication O O O O cognition O communication COMMUNICATION Purpose O cognition O PROCESS Instance change O POSSESSION O
+O O O ACT O O COMMUNICATION O O O O stative O Topic O POSSESSION O O O O O communication O communication O O
+O EVENT O motion O O O FOOD stative O O O ACT stative B O O O
+O O O cognition O social GROUP O O O
+O perception O LOCATION O O perception Comparison/Contrast COMMUNICATION O O O
+O O O
+O O O motion Destination GROUP O Duration QUANTITY O Quantity TIME O O O communication O Recipient O O
+O ANIMAL stative B O O O O O Superset O O cognition O stative B O O O GROUP O O O Extent O O O O
+O O O O communication O O GROUP stative O O O O
+O O O O communication COMMUNICATION O cognition O O cognition GROUP O O O O GROUP Function social O O O O O O possession o O O O O GROUP O O O O PERSON O
+O O ARTIFACT O stative Circumstance O COGNITION O O O stative O O O O communication o O O
+FOOD O O stative O O O
+O GROUP O
+O O possession B GROUP O
+O motion Direction O
+O stative O GROUP Elements O O QUANTITY Superset O stative O B O O FOOD O
+O stative O O stative O O
+O PERSON social COGNITION O O ProfessionalAspect O PERSON O
+O O PERSON O O O O body o o ANIMAL O ANIMAL O O TIME O O O O cognition O O
+O O O O O social O O O O O O O O cognition O O O O
+O O O communication stative O PERSON O stative O O O O social O O DeicticTime O O PERSON social o o O EndTime O social O O
+O O COMMUNICATION COMMUNICATION O O GROUP O social O
+O O
+O emotion O O social o O DeicticTime O TIME O
+O communication O motion Direction Destination GROUP O O O O O O Quantity LOCATION Location O LOCATION O O GROUP O O
+O communication O O O O stative O O communication communication O O O cognition O COMMUNICATION cognition O O O stative O COGNITION O
+O O Reciprocation PERSON O O GROUP O
+O Location O O Location
+O FOOD O O FOOD O FOOD FOOD O FOOD O
+O GROUP PERSON O PERSON O O communication o o ARTIFACT O O O O possession ARTIFACT O
+O FOOD stative B O O
+O O O O emotion O FOOD O GROUP stative O COGNITION Attribute O LOCATION O COGNITION O O COGNITION Purpose emotion O O PERSON O O RelativeTime O TIME O motion O O ARTIFACT Value O O O POSSESSION O O O O
+social o o O O
+O O social O COGNITION O
+O communication O O O O O social O O GROUP O
+O stative O O O O consumption O FOOD O O O stative O Accompanier O O FOOD O
+FEELING O social Co-Agent O
+GROUP social O O O O FOOD Manner O O GROUP O COGNITION O COGNITION O
+O GROUP stative O O PERSON O PERSON O ARTIFACT O
+O O B O O stative B O Stimulus O ATTRIBUTE O emotion o o o GROUP O O O O stative O Duration O TIME O
+O ARTIFACT O
+O stative O State COMMUNICATION O O O O O communication O O
+O emotion communication Co-Agent PERSON O O cognition o Topic O O ARTIFACT O stative Purpose O ARTIFACT O
+O O O cognition O O MOTIVE O
+Comparison/Contrast O social O cognition O social o O O O
+consumption Location GROUP O
+O PERSON communication o O O O communication O O O EVENT O
+O stative O O GROUP O O GROUP O stative Location O O LOCATION O Comparison/Contrast Location O O GROUP O O O O O stative O Theme O O O FOOD stative O O O
+O O O social o O Instance cognition O O O COGNITION O O O O emotion State FEELING Beneficiary O
+O O stative O O O O Stimulus O O O COMMUNICATION O O
+O O communication O GROUP O PERSON Recipient O O
+O GROUP B O O competition O O
+O O O O PERSON O cognition O O consumption Location GROUP O O
+O GROUP ARTIFACT
+O stative O O Activity motion o FOOD O Recipient O O
+O O O cognition O O O O cognition O
+O GROUP O GROUP O GROUP O
+O communication GROUP O O O DeicticTime O TIME PERSON O motion Destination O LOCATION O social O O O O GROUP O O ACT O GROUP ARTIFACT O O social O COMMUNICATION Value O O POSSESSION Value ARTIFACT O
+O O communication O O cognition O O O O cognition O O COGNITION O
+O ACT O O ACT O O COMMUNICATION O
+O O cognition Theme O O EVENT O Purpose O O O O EVENT O motion O O social O O O communication O O O O O O O cognition O O
+O ACT PERSON O
+O O O
+O FOOD O FOOD O O ACT O
+O O O cognition o O Stimulus O ARTIFACT O
+Or O O O motion O O O change O ARTIFACT LOCATION O O O O motion Direction O cognition O possession O Theme O ACT POSSESSION O O O O possession O POSSESSION Direction O O O COGNITION O O O O possession O O stative POSSESSION COMMUNICATION O COMMUNICATION Topic O O O
+O O cognition O O ARTIFACT Purpose perception O O stative O O O cognition COGNITION O
+COGNITION O O PERSON O O PERSON O stative O O O O emotion Stimulus O COMMUNICATION O O O ATTRIBUTE O O FOOD O O O O FOOD COGNITION O O emotion O
+O GROUP O stative O O
+O cognition O communication O PERSON change O o ACT Beneficiary O GROUP Time o O O O O
+O PERSON O O communication O Topic O O O FOOD LOCATION Location O O O stative O O O O cognition O motion O social o O Experiencer B O O
+Value O O O stative O O EVENT StartState O ATTRIBUTE Instance TIME Location Accompanier O PERSON O
+O O O ARTIFACT stative O O O O
+O Donor/Speaker O LOCATION O stative O O ATTRIBUTE FOOD O Or O
+O stative GROUP Attribute O GROUP O
+O GROUP FOOD FOOD stative O O O FOOD FOOD stative O FOOD O stative O stative O O TIME DeicticTime O GROUP O change O O
+O cognition O RELATION Superset O PERSON stative PERSON O
+O ACT O FOOD
+O O stative O O FOOD O O consumption O O Extent O Comparison/Contrast O ARTIFACT O stative Location O LOCATION O O O stative O O O O O O stative O Time O TIME O
+O O emotion O PERSON stative O stative O ACT Location O O GROUP O O O O stative COGNITION O O O stative O FOOD B O O
+COMMUNICATION Topic GROUP O O O O
+O social O GROUP Purpose change O ARTIFACT O
+O FOOD O O ACT O
+O social O Co-Agent O O O
+O cognition O FOOD O ACT EVENT O
+O O O GROUP O O emotion O LOCATION O
+O O stative O O O stative O O O possession GROUP Comparison/Contrast O stative O O communication O O PERSON O PERSON cognition O Stimulus O ARTIFACT O ACT O
+GROUP O O O O O O communication O O PERSON O O O O
+O stative O O PERSON Possessor O O O O Superset O PERSON communication PERSON stative O PERSON stative O COMMUNICATION O
+motion O TIME O O O social O cognition Comparison/Contrast O O GROUP ARTIFACT O O O cognition O EVENT O O O TIME O O O
+O O communication 0 O O O stative O O O POSSESSION O O 0
+GROUP stative O O
+O stative O O O O O PERSON cognition o O O Experiencer O O stative O ATTRIBUTE O
+O possession O ARTIFACT O O creation DeicticTime Time O TIME O
+O O consumption O FOOD FOOD O O O O O
+Or O O O TIME O O O O Superset O O O PERSON O communication O communication Recipient O PERSON O O communication O stative O O
+O O communication O COMMUNICATION PERSON O O possession O O Source Time EVENT Possessor POSSESSION
+O O EVENT O O motion Attribute O ARTIFACT Purpose social O O change O O O ARTIFACT O O stative O O
+O
+O O social O Purpose motion O O TIME O O O social O ARTIFACT EndState O O O stative O Duration O O TIME O O TIME O O TIME O
+O O cognition Location O LOCATION O Approximator O O TIME O O ACT stative O O O O
+O O stative O motion O Manner o O O
+O O GROUP Function motion Purpose EVENT RelativeTime O TIME Quantity EVENT O O
+O GROUP O Location O LOCATION O
+O change O O emotion O O O O O change O ACT O O
+O FOOD O creation FOOD O O FOOD FOOD stative O O O O stative O
+PERSON change O o ACT O stative O O PERSON O O TIME O O O stative o COMMUNICATION Topic O O POSSESSION O
+O O O O emotion O COGNITION O PERSON cognition cognition COGNITION O O social O O TIME Purpose cognition O O COGNITION O O O
+PERSON O stative O PERSON O O
+O O PERSON motion O BODY 1DTrajectory O LOCATION Location O LOCATION Whole O ARTIFACT O communication O O O O O O O social EndTime O TIME O O COGNITION O
+PERSON cognition O cognition O O O
+O GROUP EVENT Source O
+O O motion O O O cognition O stative O communication O consumption O O communication O motion B Duration O O O O TIME O
+O ACT communication O O TIME DeicticTime O O O motion O LOCATION O TIME DeicticTime O
+PERSON Causer STATE O O O cognition stative O GROUP O
+O TIME DeicticTime O PERSON social O social O Destination O LOCATION Whole O ARTIFACT O
+O stative O O O O O
+PERSON O communication 0 Explanation O stative O O O O O O social O O O
+stative O O O ARTIFACT possession O O
+O emotion O O O O ACT O O O POSSESSION O O O social GROUP O O O O O O
+GROUP social Extent O COGNITION O
+O BODY body Time O motion Direction O body O O Time perception PERSON Location O ARTIFACT O ARTIFACT O
+COMMUNICATION O
+O stative O O B COGNITION O O cognition O O O O
+Time O TIME Time EVENT O O O O ARTIFACT O O ARTIFACT O change Location O LOCATION O
+O competition O COGNITION EVENT POSSESSION ProfessionalAspect GROUP Means O EVENT EVENT O
+O O COMMUNICATION stative PERSON O O O communication O COMMUNICATION Topic O O ACT GROUP Location LOCATION O LOCATION O Location LOCATION LOCATION O
+O GROUP stative O O O O
+RelativeTime O TIME O ACT ARTIFACT social O Location O LOCATION Attribute O ARTIFACT O
+FOOD stative O O
+O social O O COGNITION Instance social O ARTIFACT O O cognition Topic O O O
+O stative O O
+O stative O Superset O O O O motion O Agent O PERSON O
+O stative O O O O O O
+O stative O O COGNITION O O O social O COGNITION Destination O O POSSESSION
+Explanation O O ANIMAL O change O EndState O ATTRIBUTE O O
+O stative O GROUP GROUP O O social O
+PERSON O stative O O O O Beneficiary O GROUP O O O O O O O O Beneficiary O PERSON O
+O cognition O O O possession o O O O O O
+FOOD stative O O O
+O O communication O O O cognition O Source O GROUP O O O O O social o o O O
+O motion O possession O Purpose ACT o O O O
+O O O COGNITION O stative O O O O motion O motion O O ARTIFACT O O ACT 1DTrajectory O STATE O O
+O communication COMMUNICATION PERSON O O O O O
+O O stative O O O O O O O social Agent O O PERSON Location O LOCATION O communication O O PERSON O O O emotion O stative Location O 0 O 0 ARTIFACT O O
+O ACT
+O consumption GROUP Location O O LOCATION O O O MOTIVE O GROUP stative O O contact Theme SUBSTANCE O O O O O
+O perception O Scalar/Rank GROUP O O O
+O O O communication O O O FOOD O FOOD FOOD O O FOOD stative O O O O
+O stative O O GROUP O O O consumption O O communication O motion O O PERSON O stative O
+O O O cognition Stimulus O O COMMUNICATION O
+O communication PERSON Purpose communication O O cognition O STATE O ARTIFACT stative State O O communication 0 O stative O GROUP O O O GROUP O 0 O O O Or communication O O O O
+O social Time O O Purpose social O O ANIMAL PHENOMENON O stative O
+O GROUP stative O COGNITION O O ARTIFACT O ARTIFACT O GROUP O O O stative O O COGNITION O O
+O O O O cognition O FOOD O FOOD O O O O stative O O
+O stative O COGNITION O GROUP O stative RELATION O O GROUP Location LOCATION O O cognition O stative O ACT Theme O COMMUNICATION O
+O possession O O ARTIFACT Value O O POSSESSION O change O EVENT O O O O
+O EVENT O
+O motion O RelativeTime O TIME FOOD O O EVENT Location GROUP O
+O cognition O stative O O O O O O social o O Theme O O O COGNITION O
+O Superset O O O GROUP Function consumption Location LOCATION O
+O stative Location O LOCATION O O O O O TIME ACT Destination LOCATION O O stative O Function ACT O
+O O O O cognition O O EVENT O O RelativeTime O TIME O O possession O O O Theme O O TIME O O O Theme O O TIME O O RelativeTime O TIME O stative O O TIME POSSESSION O
+O O O O cognition O
+communication O O cognition O communication O O LOCATION B O O cognition COGNITION O stative O O O
+O RELATION Comparison/Contrast social O change Location GROUP O O O stative Location O O ARTIFACT
+O Quantity ATTRIBUTE Function ARTIFACT O COGNITION O
+O communication O O
+O O TIME O
+PERSON stative O O stative O FEELING Stimulus ANIMAL O
+PERSON O O
+FOOD stative O O
+O O stative o o ACT communication o O O O O stative Time O EVENT O body O BODY Manner O O O O stative O Location LOCATION O
+O stative O O O O B O O O
+B O TIME RelativeTime O motion O O O communication O communication O 0 O 0 motion O ARTIFACT O O O O O O motion Location O ARTIFACT O O
+O stative O B O O O O cognition O change O O Explanation O O PERSON O stative O O COGNITION O
+O FOOD O O ACT
+O
+O O O O stative RELATION Whole O GROUP O ACT O change O
+O O O O cognition Comparison/Contrast O social O possession O O O Superset ACT O O O O cognition O
+Recipient O PERSON O O O Reciprocation O COGNITION O O stative O O o O Circumstance communication PERSON stative O 0 O PERSON O O O O O PERSON O O ACT GROUP O stative O
+O COGNITION O
+LOCATION O O Location Location LOCATION O LOCATION O O O communication O O QUANTITY O Location O O
+O emotion FOOD O O FOOD O O O O cognition O GROUP O O O change social O O O social O Approximator O O O TIME O O O stative Location O LOCATION Purpose O FOOD O O FOOD O
+O O stative O O O O O communication O stative O Location LOCATION O O
+O O social Purpose possession O O communication O O O O O motion Attribute O POSSESSION O O O O
+O POSSESSION o communication stative O O O communication O O cognition O O
+GROUP social O O social O O ATTRIBUTE stative O O O FOOD creation O O Manner COGNITION O
+O cognition O COMMUNICATION Purpose O O cognition O POSSESSION PERSON Instrument COMMUNICATION O
+O stative O O O O O
+O stative O O Via O O O Manner O O
+social O O O O O GROUP stative O O O O O
+O O O O
+O LOCATION Function stative
+O communication O O stative O State o O O O O motion Purpose motion O Time O O O O O O cognition O ARTIFACT Purpose ACT Time O TIME O O O PERSON O communication Co-Agent O communication O O O O change O ARTIFACT O Time O O
+PERSON O O O GROUP O stative O O PERSON Topic O STATE Possessor O O PERSON O
+O motion StartState O STATE COGNITION Value O O O EndState O O O stative O O motion Locus O EVENT O O TIME O O
+O ARTIFACT O O Scalar/Rank O POSSESSION O O Location O LOCATION O
+O stative O O O O Or O O O O GROUP O O
+O stative O COGNITION O PERSON O O communication O PERSON Attribute O O O LOCATION O
+O O stative O
+GROUP stative O TIME Location LOCATION LOCATION O LOCATION O O LOCATION O LOCATION O O LOCATION O O O O GROUP O O O
+O O COMMUNICATION stative O O cognition O PERSON O
+O O stative O O EndState O EVENT O O EVENT FOOD O social cognition change O O creation RelativeTime O communication O O
+O stative O O O O O O GROUP
+O O O possession O possession O ARTIFACT O O communication o O O O
+O O B communication O GROUP Recipient O cognition Theme O O ATTRIBUTE O O FOOD O O O ACT O O
+ACT O stative O O O O O stative O Extent O O GROUP
+O cognition O O O ARTIFACT O cognition O O change O O O O communication GROUP O O O
+ACT O O ACT O
+O O O O O O O
+O stative O O O O O emotion o COGNITION o O Stimulus cognition O ACT O
+O O O O O O Stimulus O O
+Attribute O O O ARTIFACT PERSON O O PERSON O O cognition PERSON O ProfessionalAspect GROUP O O O O O O
+O PERSON stative O PERSON O O emotion O ACT EVENT O O FOOD O
+O stative GROUP O O GROUP O O O O GROUP O O GROUP O O Location LOCATION O
+PERSON stative O o O O COGNITION O COGNITION O O COGNITION O stative COGNITION Co-Theme O Co-Theme O MOTIVE O
+motion Direction O O O O cognition O stative Location LOCATION O
+LOCATION stative O O O stative O O O O O ARTIFACT O ARTIFACT COGNITION O O O consumption O
+O Reciprocation communication O cognition O
+O FOOD O FOOD O ACT
+O O
+O stative O O FOOD FOOD O FOOD O
+O consumption O ARTIFACT ACT Purpose O Superset O LOCATION ARTIFACT ACT O LOCATION ACT COGNITION
+O cognition O O stative O O O O O O O O O O O O
+Approximator O TIME O O O O TIME RelativeTime O change O O ARTIFACT O O change O
+O cognition Comparison/Contrast O stative Location COGNITION O O motion 1DTrajectory O O NATURAL OBJECT Whole O O GROUP O
+O O GROUP Function consumption O
+O O cognition O O O O cognition O O stative O EVENT Extent O O O O stative O O Stimulus O ACT EVENT O
+PERSON O change O BODY StartState O ARTIFACT STATE O stative O O O O O O PERSON O
+O O O O O O COGNITION
+COGNITION Location LOCATION O
+O O
+ACT stative O O
+PERSON stative O O O PERSON O
+O O O change O O
+O O possession POSSESSION O O O O change o O O
+O O O cognition O O GROUP Time o O O O O
+GROUP stative O O O
+O emotion O ATTRIBUTE O ATTRIBUTE O ATTRIBUTE O
+O FOOD social Manner COGNITION O O O O FOOD COGNITION O
+O O O O
+O O GROUP O O
+O consumption O FOOD FOOD FOOD O O PERSON consumption O FOOD O FOOD O
+O communication Recipient GROUP O O emotion B GROUP O
+O O communication O Recipient O O
+ARTIFACT O Destination O O NATURAL OBJECT LOCATION Attribute FOOD O FOOD O ARTIFACT O
+O
+O motion Direction Approximator O EVENT O TIME O
+O O cognition O PERSON stative Destination GROUP O GROUP O O GROUP O GROUP O GROUP O O O GROUP O GROUP O O GROUP O O Superset O O
+O O O stative O Location LOCATION O
+Time O TIME O O possession O FOOD O O stative O FOOD O O FOOD Scalar/Rank O stative O FOOD O O O stative O FOOD O O O O FOOD O stative Theme FOOD O O FOOD stative O O State O o O O
+BODY
+O COGNITION O ACT O
+O stative O O O
+O cognition Comparison/Contrast O O O communication O O COGNITION RelativeTime O change O O ARTIFACT O O O O stative O O COGNITION O possession O QUANTITY O POSSESSION O
+COMMUNICATION O ACT ACT
+O O O O social ProfessionalAspect PERSON Duration O TIME O O stative O PERSON social O COMMUNICATION Locus COMMUNICATION O O O COMMUNICATION O O COMMUNICATION O stative O QUANTITY O RELATION Attribute COGNITION O O O O competition O COGNITION O COGNITION stative O PROCESS O stative O O O cognition O O O stative O O
+O PLANT stative State O STATE O O ATTRIBUTE stative O O
+motion O TIME RelativeTime communication Purpose social O O ARTIFACT O State O O
+O stative O possession O O O
+GROUP stative O COGNITION O
+O ARTIFACT
+O stative O O O O NATURAL OBJECT O stative O O O O O stative O O O cognition O COGNITION Comparison/Contrast O O O O O stative O O O
+O O stative Direction O O O O
+O stative Location LOCATION O Purpose O O EVENT O O GROUP possession O O LOCATION O Purpose O O GROUP O social Location O
+O O O social O O ANIMAL O Purpose EVENT O COMMUNICATION O
+O O O O O O
+PERSON O O
+O ATTRIBUTE O O stative Experiencer O O
+O O motion o ARTIFACT Direction O O TIME O
+O stative O O GROUP O O O O
+O O O communication O O O O O communication Topic O BODY O ATTRIBUTE O COGNITION O O
+O O O O emotion O O O PERSON communication O O POSSESSION O
+O LOCATION O ARTIFACT
+O possession O COGNITION O GROUP O cognition O PERSON Attribute O COGNITION O GROUP O stative O
+O stative O O ARTIFACT O O possession O O Quantity POSSESSION O
+O O O O GROUP Location O LOCATION O
+O O
+O O PERSON Location LOCATION
+O stative O O change O O O RelativeTime possession O O O POSSESSION O O O GROUP PERSON O communication o O communication O O O cognition O possession O O stative COGNITION Topic ACT O O O communication Recipient Manner O O O COGNITION O
+O POSSESSION O O FOOD O
+O O O FOOD GROUP
+O change O Beneficiary O O O O GROUP O O
+COMMUNICATION O
+O O cognition o FEELING O PERSON O
+O COGNITION Location LOCATION
+O cognition O O COGNITION O O O FOOD O O cognition O stative O creation O
+O O
+FOOD O O O O MOTIVE O motion O GROUP O
+O COMMUNICATION O O
+O EVENT stative B O O
+O PERSON O O O stative O O O O PERSON O O O
+motion Destination GROUP O O
+O cognition o O O O ACT stative O O
+O O O O PERSON O O O stative O GROUP O O O O O cognition O PERSON O possession O O Theme O ACT O stative O O GROUP ATTRIBUTE O
+O O O emotion ACT O O O O POSSESSION stative O O O O O O change O COGNITION Possessor COGNITION O
+O O communication o O Topic O O stative O O O O
+O O cognition O PERSON O O social O COGNITION O communication GROUP O O O O
+O stative O O social o O O
+O COMMUNICATION O O O O cognition O O O O O change O
+Duration O EVENT O O cognition O stative O B LOCATION O O O O O stative O Explanation O O social Theme O COGNITION O O O
+O stative Destination O O LOCATION O O TIME O O stative O O O stative O Attribute O O LOCATION ARTIFACT social Purpose motion O O O Time O TIME O
+O GROUP stative O ARTIFACT Attribute O ARTIFACT O O O O O consumption O
+Or O social O O communication O GROUP O O O B O O communication O stative State O ARTIFACT Duration O TIME stative EVENT O Circumstance O O O communication O O communication Theme O O
+O communication O Co-Agent O Superset O PERSON O stative O O O O O
+O social Approximator O O PERSON RelativeTime O communication O social O O O
+O stative POSSESSION O stative O O POSSESSION O stative ARTIFACT O stative O ARTIFACT cognition Comparison/Contrast O O POSSESSION O O stative O O O O ATTRIBUTE Stimulus O ARTIFACT O O O O O O
+ATTRIBUTE Possessor ACT stative O O O O O
+O stative B O Or O O Experiencer O
+O PERSON change Course O Course O LOCATION Manner O COGNITION Stimulus O O PERSON social O
+ARTIFACT O O O perception O O O
+O O O O possession O ARTIFACT Donor/Speaker O O
+O FOOD stative O Extent O O
+O O communication O LOCATION O Topic O O O GROUP Location O LOCATION Location O ARTIFACT O O Time TIME O O cognition O stative O GROUP GROUP B O O O stative o O O
+O cognition O O stative O communication O PERSON O O stative O O COGNITION O
+Time O O O O O O stative O O O cognition O GROUP Attribute O O GROUP O O O stative POSSESSION COMMUNICATION O
+O stative O O O ACT O GROUP O Scalar/Rank O LOCATION O stative O O O
+O motion O Attribute O QUANTITY O BODY Location O RELATION O O QUANTITY O BODY Location O BODY O O O Location O BODY O
+O FOOD stative O O
+O FOOD O stative O O Scalar/Rank O FOOD O O
+O communication O stative O O motion InitialLocation O O GROUP LOCATION O
+O O O ATTRIBUTE stative O O O O Comparison/Contrast O O ARTIFACT Comparison/Contrast O O NATURAL OBJECT ARTIFACT O O O O O O O O O FOOD stative O O
+O Reciprocation PERSON O
+O COMMUNICATION stative O GROUP stative O O COGNITION O stative O Destination O O GROUP O O O cognition O social O O
+O PERSON stative Location O LOCATION creation O FOOD O
+O O O O O O O
+RELATION O ARTIFACT COGNITION O LOCATION O
+ARTIFACT O stative O O O Function O ARTIFACT O O
+O O
+O O ACT Location O LOCATION O O
+O cognition o O O O ACT O
+O O O communication O
+Superset O ANIMAL O stative O O contact stative ANIMAL O ANIMAL O O O ANIMAL O
+O possession O POSSESSION O possession O FOOD Location O COMMUNICATION O O POSSESSION Location O POSSESSION stative O O O O O communication Locus O Purpose cognition O POSSESSION O stative O O O
+O ACT GROUP
+O O O possession O ARTIFACT O TIME O O O stative O O
+O communication
+O GROUP stative O O O O GROUP Location LOCATION O O emotion O
+O ACT
+O B communication PERSON O O social o o ACT O O 0 emotion 0 O COGNITION O body o O O O O O cognition O O ACT Purpose cognition O O BODY stative O O
+O O O
+O O O cognition O O motion O ANIMAL Destination O PERSON O Explanation O O O ANIMAL O O O social O
+O O change O O O O O O stative State O O O
+O O stative O MOTIVE Purpose O O PROCESS O
+O O O O communication O O PERSON O TIME Purpose communication O O ARTIFACT O motion O
+GROUP cognition O motion Direction O ARTIFACT O O O O cognition O social O O O
+DeicticTime O O O O social O Means O cognition O ARTIFACT O possession Theme O O O O
+O PERSON O
+O social O Location O O GROUP O O cognition O cognition O PERSON O stative O O Stimulus ARTIFACT O ACT GROUP StartTime O motion O O O PERSON O social O O O stative O O Oj PERSON Location O
+O O O social O TIME O O perception O O O O
+O B communication possession O O ARTIFACT Quantity O O FOOD O FOOD O O O O O
+O motion Attribute O QUANTITY Quantity FOOD O O
+O social O O Quantity O Co-Agent O O possession O Destination O O QUANTITY Quantity ARTIFACT O
+O motion ARTIFACT O O O ARTIFACT Topic ARTIFACT O O O O stative o O O O
+cognition O communication Theme O FOOD
+O O O
+O
+O O stative O TIME O O O O O stative O ARTIFACT O O stative O O O O O O O O
+O GROUP O
+Or O PERSON O Or O ARTIFACT O Or O ACT O
+O O
+O ACT O ATTRIBUTE Value O O O POSSESSION O
+O O emotion O GROUP Scalar/Rank O O O social GROUP O O O O emotion O social O GROUP Location O LOCATION O
+O O
+O O O motion O ARTIFACT O O O O O O GROUP change COGNITION Or O O O ACT O stative O O O O O cognition O 0 possession O 0 O ACT O O O O O cognition O
+GROUP O stative O Superset O O ACT ACT O O social O
+O ACT O stative O stative O O O GROUP O
+O O O O B O O RELATION O ATTRIBUTE COGNITION O
+COGNITION GROUP possession O GROUP O ARTIFACT O ARTIFACT stative O O O O O cognition O possession O POSSESSION Theme O PERSON ARTIFACT O O
+O communication O LOCATION O O communication o O O
+COGNITION Location O LOCATION O O O O O O consumption O FOOD InitialLocation O ARTIFACT Location O LOCATION O O cognition O Means motion O ARTIFACT Location O LOCATION O
+O emotion O O
+O O O FOOD stative B O O O O O O O O O O motion Location Purpose O Location LOCATION DeicticTime O
+O communication O O O O consumption O ARTIFACT O O possession O O GROUP O O motion O Location O LOCATION O O O O possession O O
+emotion O FOOD O
+O O O communication O FOOD Recipient O O
+motion Direction O ARTIFACT O O social O cognition O O O O
+O O O motion O O O
+O ACT O
+O stative O GROUP PERSON Location LOCATION LOCATION O O emotion O GROUP stative Location O LOCATION O
+O O communication GROUP O O COMMUNICATION O O O POSSESSION stative O Scalar/Rank O O O O stative O ARTIFACT Direction O O EVENT O O O ATTRIBUTE O social stative O O
+GROUP
+O stative O ACT O
+O O O O social GROUP O O O O
+O communication O O motion o Direction RelativeTime O QUANTITY O
+GROUP O stative o O O O
+O O O cognition O O stative O O creation FOOD O O FOOD FOOD O FOOD O O O O O FOOD FOOD perception O O O GROUP O social O O
+O stative O GROUP Location O LOCATION O GROUP O O
+O O GROUP change O O O
+FEELING Possessor PERSON O O O
+O stative O O cognition O O GROUP O social O
+O O communication O Recipient Oo O
+O FOOD stative O O O FOOD stative O O O O O ACT O O O stative O O
+O O B communication PERSON Recipient O O
+O O Reciprocation PERSON O O GROUP O
+O O stative O ACT Purpose communication O cognition O O
+O O ACT O O GROUP O
+O cognition O stative O O O O O contact O BODY ATTRIBUTE 2DArea O O BODY O stative O O O ATTRIBUTE O
+O O O GROUP stative O O O
+O O O communication O Location O O TIME O O O PERSON O O communication O stative O PERSON O communication O FOOD stative State O O O O O O O communication O possession O Manner O COGNITION Species COGNITION O
+O GROUP stative O O O ACT stative O O O PERSON stative O PERSON O
+O emotion O FOOD O O COGNITION O O O O O
+O O cognition O O O FOOD O O stative O O
+O stative O PERSON O O social O COGNITION O O
+O GROUP stative O O O O stative O O EVENT O motion O O O Purpose O motion o O O
+communication Agent GROUP O O O
+LOCATION PERSON O PERSON O stative O O O O social O COGNITION O cognition O O PHENOMENON O
+O O GROUP Location LOCATION
+O Time O EVENT O O O O O GROUP stative O O O
+O O O O cognition o o o O DeicticTime O O TIME O cognition O
+O O motion 2DArea Location O ARTIFACT O cognition COGNITION O O
+social O O
+O O O O possession Approximator O O Theme O O cognition O O stative O O perception O O
+O stative B O O ACT O O social Location GROUP O
+O stative O BODY O O body EndState O BODY COGNITION O
+O EVENT stative O O O POSSESSION stative O O O
+stative O O
+O O stative O O O stative O O O O O EVENT O
+O O O communication O O O motion Location O LOCATION O O TIME TIME O O O motion O
+O stative Location LOCATION O O Purpose O GROUP EVENT InitialLocation LOCATION O O
+O stative O Attribute O GROUP O O O FOOD stative B O O O
+O stative O O LOCATION Function social PERSON EVENT O Location O
+O Frequency O O EVENT Time O TIME O O O EVENT Time O TIME O O motion o ARTIFACT O O O
+O stative O ARTIFACT ARTIFACT COGNITION Species GROUP O O O cognition B O O O
+O O motion O TIME O Purpose O FOOD O O O
+GROUP O stative ARTIFACT O O ACT Beneficiary PERSON O PERSON O O O O O change O O ARTIFACT Location LOCATION O stative O O Beneficiary PERSON O PERSON O O O PERSON cognition O social Location O O O O GROUP O
+O stative O O O cognition O PERSON motion Direction O O O O O stative O O
+O FOOD stative O O O QUANTITY Whole O FOOD stative O O O O O O O FOOD stative O Or O O O
+O O O motion O O PERSON stative O O O O O stative O O O Superset PERSON stative O O
+FOOD O O ACT O
+B Od O O stative O Beneficiary O O O O O stative O O
+O stative O O O O
+O stative O Stimulus O EVENT O Explanation O O O ATTRIBUTE O POSSESSION Possessor O EVENT O O ATTRIBUTE Destination O GROUP O O
+O O O social O O ARTIFACT GROUP Attribute O TIME O
+O O NATURAL OBJECT O
+O communication O Purpose O POSSESSION O O communication O O O communication o COMMUNICATION O
+O O FOOD O FOOD O O O FOOD O
+O O EVENT O motion Location O Attribute O ANIMAL O ANIMAL O cognition O O stative O O O O
+O stative O O PERSON O O O O O
+GROUP stative O O stative O O O COGNITION GROUP Location LOCATION O
+O O social Location O GROUP Accompanier QUANTITY O Quantity O O O O O O EVENT GROUP O
+O O FOOD O O
+O stative O O PERSON O O emotion O motion Direction Time O O
+O ANIMAL stative O O ATTRIBUTE O O stative O O EVENT Co-Theme O GROUP O
+O O O O cognition Topic communication O communication Recipient O PERSON O O O stative O O O O O O O PERSON O
+O B communication PERSON O O ANIMAL ACT ACT Recipient O ARTIFACT PERSON O ARTIFACT O
+O ACT
+O O stative O PERSON Duration O TIME O O PERSON O stative Extent O O O O
+O stative O O O O GROUP O creation Location LOCATION O Explanation O stative Location LOCATION O
+O O emotion O O O O O motion Destination GROUP O O O O
+O FOOD O FOOD FOOD stative O O O COGNITION O O O O O O O O O consumption O O O communication stative O O O O O O POSSESSION O O O O stative O FOOD O O
+O PERSON O O possession o o O O social O O ARTIFACT O O PERSON O stative O O O O O Comparison/Contrast O ATTRIBUTE O
+cognition Donor/Speaker O PERSON O PERSON O O O PERSON O O
+O O motion O O EVENT O social Purpose contact O O ARTIFACT Quantity O O O O contact O
+O COGNITION cognition O PROCESS O COGNITION COGNITION O Attribute ACT O O O ACT O ACT O ACT O ACT O O ACT O ACT O ACT O
+O stative O ARTIFACT Attribute O O O POSSESSION O O O possession O
+O ACT O
+O O PERSON perception O O O O O cognition O
+social O ACT Frequency O O EVENT O O O cognition Stimulus O ATTRIBUTE O social O COMMUNICATION O O RelativeTime COMMUNICATION O communication Purpose communication COGNITION O O O O ACT Theme O ARTIFACT O Destination LOCATION O O O stative Circumstance communication O
+O O O O social o O O Purpose O FOOD O O PERSON O O cognition O ARTIFACT O O O O O O O stative O O O GROUP O O stative O O TIME stative O ACT GROUP O COMMUNICATION O COMMUNICATION O O stative O O
+O O social O O PERSON O EndTime O O O O social O GROUP O O
+O GROUP O ACT O O communication Agent O Recipient O O 0
+O communication ARTIFACT O ACT Location LOCATION O cognition GROUP O PERSON communication o ARTIFACT O stative B O O O O O O
+O O PERSON O
+Circumstance O COGNITION Location O BODY O communication O O POSSESSION O O possession O O stative O COGNITION O stative O
+O O O
+O GROUP Location LOCATION O
+O O ACT O O
+O O GROUP social o o GROUP O
+O O communication Recipient GROUP O O stative Agent O O communication O o O O Topic O GROUP O O O O O stative O O possession EVENT Beneficiary O B O O O communication O O cognition GROUP O O competition o COGNITION O O O COGNITION O stative O Purpose cognition O GROUP Scalar/Rank cognition O O
+O Reciprocation social o o O Patient O O QUANTITY Quantity ARTIFACT O O perception O O
+O FOOD Location LOCATION
+O O communication Agent O PERSON O communication O cognition O POSSESSION Theme O O O
+Or O FOOD motion O O O stative O O O O FOOD O O consumption O
+B communication PERSON O
+O social O O O communication O cognition O Topic ARTIFACT O O O social O O COGNITION O communication O COMMUNICATION O
+O O O O communication O O stative O Superset O O GROUP Function consumption Location O Whole LOCATION O
+O O O Topic O ACT O
+O communication O GROUP Recipient O O O O cognition O ACT stative Value O O POSSESSION O
+consumption O O O O perception O O
+ARTIFACT stative O Elements ARTIFACT ARTIFACT O cognition NATURAL OBJECT O O
+O O O O social O O cognition O O O O O cognition O social O O
+emotion O ARTIFACT O FOOD O
+O COGNITION stative O Value O O social GROUP O O O O O O social O PERSON O O
+O O O O communication O O O O O O motion O O 0 COMMUNICATION 0 O O cognition Purpose stative O PERSON O
+O PERSON O O O perception O PHENOMENON O change O O ARTIFACT O O social O O PERSON Direction O O O stative o ARTIFACT Location O O O
+ARTIFACT O ARTIFACT Circumstance COGNITION O
+O ATTRIBUTE stative O O O COGNITION Attribute O COMMUNICATION ARTIFACT O ARTIFACT StartTime O TIME O TIME O
+O stative O O COGNITION Species O FOOD O FOOD O O stative FOOD O O
+O O PERSON O PERSON emotion O LOCATION O
+O O O stative O ACT O O O O O cognition Theme O GROUP O O GROUP O stative O GROUP Beneficiary O O
+O O communication O POSSESSION O Via O O O O communication O POSSESSION COGNITION O Purpose social O EVENT O O O O O social O O O O possession O O
+PERSON stative O o ACT O O O O cognition O O Topic O O stative O BODY O BODY O Purpose body o PERSON o o O O communication TIME O communication O O social O O O O emotion O O O stative O B O O O O
+O PERSON stative O O O O O stative O cognition Comparison/Contrast O O social o O O
+O stative O ACT PERSON Attribute POSSESSION POSSESSION O
+O O QUANTITY stative O O O
+O emotion O EVENT O O O cognition Theme EVENT O O EVENT O O O O O
+O O FOOD Location O LOCATION
+FOOD stative O O
+PERSON O communication O O O GROUP stative Time TIME O O O O communication O Time TIME O
+O O PERSON O social O O TIME O O PERSON perception O ARTIFACT Attribute COMMUNICATION O COMMUNICATION O O Location O O
+PERSON stative o O O O
+O O O COMMUNICATION O
+O O cognition O FOOD O GROUP stative O LOCATION O motion O
+O ACT O O ACT Location LOCATION O O O cognition o O O COGNITION O social o O O
+FOOD O stative O O O
+O O O
+O motion O O O GROUP stative O O Beneficiary O GROUP O O COGNITION o O O O
+O ACT
+O O O O O O O O O O
+O O communication O Superset O COMMUNICATION Locus O B O O communication O O O Comparison/Contrast O O PERSON O GROUP O stative O O ARTIFACT O Circumstance O O O GROUP O O O Purpose O O O Superset O ACT O ACT O O social O stative O O B Comparison/Contrast O O stative Theme O O O COGNITION O O O O O stative POSSESSION O O
+GROUP O stative O O O social O O O O cognition O O stative O EVENT Experiencer O O O O O O COMMUNICATION Quantity FOOD O O O O O
+O stative O O O
+ACT stative O O
+O communication O O COMMUNICATION RelativeTime motion O stative COGNITION O O O EndState O FEELING O O O stative O O COGNITION O
+O stative O PERSON stative O O
+O RelativeTime O ACT O O BODY stative O perception O O O O O O perception B O O
+O stative O O B COGNITION O O cognition O motion O FOOD Direction O O cognition O motion O O
+O cognition O O O O communication O LOCATION O Topic O GROUP COGNITION O social Direction O COGNITION Beneficiary B COGNITION O communication O O O COGNITION O O O o possession ĩ-Theme o O o possession O
+O O O emotion Causer STATE O Duration Approximator O TIME O O motion O O PERSON O PERSON O PERSON O PERSON Circumstance O COGNITION O
+RelativeTime cognition O ARTIFACT O cognition O social O O Purpose communication O O EVENT O cognition O O O O O O
+LOCATION O O
+O O social Recipient GROUP O Agent PERSON O O PERSON O O O possession O GROUP O O motion O LOCATION O O social Location LOCATION O LOCATION O LOCATION O O QUANTITY Whole O TIME O
+O communication GROUP O O O O TIME Purpose possession O COGNITION ARTIFACT Function O ARTIFACT O O O O emotion O O communication O O O O O O O possession O Theme O COGNITION ARTIFACT O O O O O stative State O POSSESSION O
+O O O O cognition PERSON RelativeTime O motion O ANIMAL O O O
+O communication O O O O stative Location O GROUP O ARTIFACT Location LOCATION O O
+O O O stative O O
+O O B communication O GROUP O Locus O O EVENT Destination LOCATION O O
+O stative O O O
+O stative O O social O O
+O communication O O LOCATION Location LOCATION O O communication LOCATION O O
+O COGNITION O POSSESSION stative Comparison/Contrast O Superset O GROUP O
+StartState o o O O O GROUP O O O O possession O POSSESSION Co-Theme O O cognition O ARTIFACT Purpose social O social O GROUP O O cognition O stative O O ARTIFACT Quantity ARTIFACT O O
+O TIME RelativeTime O O COGNITION O O communication o O Donor/Speaker PERSON communication O Topic O EVENT O O motion O Time O O O stative O O
+Or O O possession O O ARTIFACT O Elements O ARTIFACT O ARTIFACT O O O O ARTIFACT O social O B O O
+O O O O O consumption FOOD O O O O stative InitialLocation O GROUP O
+O O social ProfessionalAspect PERSON O ProfessionalAspect GROUP O O O O O stative O Attribute O O EVENT O
+O O motion O PERSON ProfessionalAspect GROUP Duration Approximator O O TIME O
+PERSON stative O O
+O GROUP Function O ARTIFACT O
+O O O social O O Location O LOCATION O O motion o O O O PERSON O stative O O O
+O communication O ARTIFACT O O O O change O communication Attribute O stative O
+O TIME O RelativeTime o stative O O O O O communication PERSON O O POSSESSION COGNITION O stative O Circumstance O O O POSSESSION POSSESSION Time O EVENT Whole O TIME O
+O O GROUP O O O O
+O O O PERSON O COGNITION O possession Donor/Speaker O GROUP GROUP O
+O stative O COMMUNICATION O O O stative O ARTIFACT O
+O O communication GROUP O communication o O O O social Theme O EVENT O
+ARTIFACT stative O QUANTITY Whole O TIME Extent O O
+O O O motion O O GROUP O O O O O social Theme O O
+O GROUP O O motion Destination LOCATION O O TIME DeicticTime O O social O O Superset O O GROUP O O emotion O FOOD O
+O GROUP O O stative O O O O
+O communication O O O Comparison/Contrast O stative PERSON O O O O emotion O ACT O O O change O
+O Location O ARTIFACT O O stative O O MOTIVE O O motion Destination O O GROUP O
+O O emotion O GROUP O EVENT O motion O O PERSON social O O O cognition O O O O stative O O O O O O stative O O PERSON O stative O O O O stative O O O O O stative O PERSON O O O O stative O PERSON O O motion O O O O O motion O O ANIMAL O stative O O Causer O SUBSTANCE O O O cognition O O social O communication O
+O communication O O motion O O LOCATION O O O O communication O O POSSESSION O
+GROUP communication POSSESSION ACT O stative O O O
+O body ACT O O O emotion O NATURAL OBJECT
+B O O O emotion Stimulus O O O
+O COGNITION O O ARTIFACT PERSON Attribute O TIME O
+EVENT O PERSON
+GROUP PERSON O O O ACT O
+O FOOD O Extent O O
+O stative O O stative O COMMUNICATION Location O GROUP O O stative O O COGNITION Function cognition O COGNITION O
+O PERSON O O social O O O O GROUP O O O O cognition O stative Location COGNITION Location GROUP O
+RelativeTime O ATTRIBUTE Age O O change motion Destination O PERSON O
+O LOCATION O
+O social O GROUP Frequency O o O O O O Circumstance FOOD O
+O O perception O O Quantity ACT O COMMUNICATION O O cognition O Quantity O COGNITION O COMMUNICATION O O O cognition O emotion O O O O O
+O communication GROUP O Topic O O O COMMUNICATION O communication O O stative O O POSSESSION Time O ACT O O O
+cognition O O
+O communication O O stative O B o o TIME O
+O O O O emotion communication Stimulus Comparison/Contrast O O emotion Stimulus O O cognition O O O stative B Topic stative O communication O COMMUNICATION B Or O O O
+O ACT
+O O O O O O O O ACT O
+O O social Location GROUP Duration O TIME O O
+O O motion Destination O O LOCATION O O O stative O O ARTIFACT O stative ARTIFACT O O O O ARTIFACT O
+O ACT stative Source O LOCATION O O
+PERSON Comparison/Contrast O O PERSON O O cognition O ATTRIBUTE O ATTRIBUTE O O O O O O
+Time TIME TIME O O O communication ARTIFACT InitialLocation GROUP O O O social ProfessionalAspect GROUP Purpose motion O O
+O possession O DeicticTime O TIME O
+O O stative Activity O O ATTRIBUTE O PERSON stative O PERSON O
+O social O Means O PERSON O EVENT O O Superset O PERSON stative State O O O O STATE O O cognition ACT O O O stative O O O social O
+O O O social Location LOCATION O O stative O COGNITION O
+O
+O stative O O cognition O O O O FOOD stative O O O O Comparison/Contrast consumption InitialLocation O O ARTIFACT O
+O O O TIME RelativeTime O ACT O PERSON communication o O Purpose cognition O O ARTIFACT O stative O Purpose communication o O O O O O possession O Theme QUANTITY Quantity O ACT O cognition O social O O POSSESSION Value O QUANTITY O
+O O social O O EVENT Purpose change ARTIFACT Comparison/Contrast contact Direction O ARTIFACT Location O ARTIFACT Comparison/Contrast change O ARTIFACT Location O O ARTIFACT O
+O FOOD O creation O Agent O O PERSON Activity O O
+emotion O
+O O O
+O O Duration O EVENT O O social O O O Purpose change o EVENT O O
+O communication O O O communication O O stative Location LOCATION O O
+O PERSON motion O O communication o stative O O possession O O QUANTITY Quantity FOOD O O communication O O O O social O O O ARTIFACT O O change O change O
+O O
+O O communication Goal O O communication Goal O O communication O O O motion O O ARTIFACT O O O TIME O O
+O Recipient GROUP O O GROUP
+O O communication O Purpose O O ARTIFACT O ARTIFACT ACT O ACT LOCATION
+communication O stative Or O Scalar/Rank O EVENT O O
+O Explanation O MOTIVE O O O stative O cognition O COMMUNICATION O O O O O cognition O Agent O O O
+O possession O PERSON O communication Co-Agent TIME O 0 O O O communication O 0 COMMUNICATION Purpose communication o O O GROUP O stative O O COGNITION Function social communication O O Topic GROUP O
+O O COMMUNICATION O O
+O O O O communication O O ACT POSSESSION O O O perception O O stative O O O ARTIFACT O O stative O O O O ARTIFACT Purpose O ARTIFACT ATTRIBUTE O
+O stative O O cognition o O O O O cognition O O social O O O O
+GROUP O Location LOCATION O Location LOCATION O LOCATION
+O O O PERSON Possessor O B communication O GROUP O O O O O communication O O communication Theme PERSON O
+O O O stative O O PERSON O O O social O motion Destination O LOCATION O O EVENT Location O GROUP O
+cognition o O Theme O FOOD O O O EVENT O motion O O O cognition Theme communication B O Comparison/Contrast O O FOOD O
+O cognition BODY O body O O
+O GROUP O GROUP stative O O
+O GROUP O stative O O EVENT Experiencer O PERSON O
+O O O motion Destination O PERSON Duration O O O stative ANIMAL O
+O O O body Location O LOCATION RelativeTime O O cognition Recipient O GROUP Agent O Superset O PERSON O
+O O O GROUP O
+O O PERSON O
+O O emotion O
+O O communication O O Topic GROUP O O O O O cognition O social o O O O
+FOOD stative O O O ACT cognition O O Experiencer O O
+Attribute O O B LOCATION O O cognition O O O stative O O O FOOD O
+O social O O TIME Purpose O SUBSTANCE O ARTIFACT ACT O stative O O O O O O stative O TIME O
+O O O communication O O COMMUNICATION O O O social O O
+O O communication O creation EndState COGNITION O O O perception O O
+stative B O O O Topic O COGNITION Theme O GROUP Comparison/Contrast O O O O O O social Theme O EVENT communication O O O O cognition O social O O O O O emotion o o O O
+COGNITION O O PERSON stative O O O O O O RELATION Quantity O FOOD O O stative FOOD O TIME O stative Approximator O TIME StartTime ACT EndTime ACT O
+O COGNITION Species GROUP o O social O O stative O O O O O stative O O O O O stative O O
+O FOOD O
+Purpose O O FOOD O O stative O GROUP Function motion O
+O O O O
+O O FOOD perception O O O Circumstance O O ACT Theme ARTIFACT O O ARTIFACT O O stative O O
+O LOCATION cognition O FOOD ATTRIBUTE O O stative O O O
+O O B O O O
+cognition O O cognition O O communication O O cognition O social o ACT O O
+O cognition O O stative O COGNITION O stative Location GROUP O O O O COGNITION stative Location O O ARTIFACT O
+O O O communication O O
+O O motion O O PERSON O O LOCATION O Purpose stative ARTIFACT O
+O Superset O O stative O Stimulus O O ACT Duration O TIME O
+Attribute O O PERSON O O O O O social O o o 0 O 0 O social O O O O Whole O COGNITION Purpose cognition O O O PHENOMENON O O
+O COGNITION O
+O EVENT
+GROUP COMMUNICATION O change O
+O Direction O Direction O
+O O O perception O NATURAL OBJECT O stative Location LOCATION O
+O O cognition O B O O cognition O cognition O O Explanation O COGNITION Topic COGNITION O competition O O cognition O
+B O O O O change O ARTIFACT O O O O O possession O TIME O O O possession o O O O
+O PERSON O PERSON stative O O
+O O O communication O GROUP Recipient O O O O Function consumption O
+O O stative stative O O O O TIME POSSESSION O stative O COMMUNICATION Via O O O O O QUANTITY O TIME O O O O stative Purpose cognition COMMUNICATION O O communication O O COMMUNICATION O O
+O O COGNITION O O stative Time O TIME Whole social O stative O O ARTIFACT stative O O O O O O perception O PERSON COMMUNICATION O
+O O O O O O O
+O cognition O O communication O COMMUNICATION O O O cognition O COMMUNICATION Reciprocation O O communication Topic COGNITION O O O O COGNITION O
+O COGNITION O Time ACT EVENT O
+O Quantity COGNITION O COGNITION PERSON O TIME O POSSESSION stative B O O
+O GROUP
+O stative O O stative O O GROUP Function motion Explanation communication O O COMMUNICATION O O O O O stative Time O COGNITION O O O O cognition O
+PERSON O motion O TIME O communication O change O COGNITION O O O O
+B O O O O PERSON emotion O O
+O O PERSON O O cognition O Topic O O O possession O O O O O O possession O O O
+O communication O 0 O 0 COMMUNICATION O communication Stimulus O O COMMUNICATION COGNITION O EVENT RelativeTime O cognition O O
+O EVENT stative O ProfessionalAspect GROUP O O O O O
+O O ACT stative O TIME O O stative ATTRIBUTE O O
+O stative O FOOD O FOOD O O O stative ATTRIBUTE O
+O ACT
+O PERSON Location O ARTIFACT stative O O O O O cognition O O
+O O COGNITION stative O stative O O ARTIFACT change Value Approximator O O POSSESSION O O GROUP O possession O Theme change O ARTIFACT ARTIFACT O ARTIFACT O
+O O O cognition O O
+PERSON O social O
+O O social O cognition O O O
+O GROUP stative O O O O O O
+O O O FOOD O O O O consumption O O
+ARTIFACT stative O O O O O O O
+O communication O stative 0 ARTIFACT O ARTIFACT 0 O possession O O O Purpose social o O O possession ARTIFACT O
+O cognition O O TIME RelativeTime possession O FOOD O O stative O O
+O FOOD O O O creation O O O motion Direction Purpose EVENT O
+O O cognition O O O
+O social O O Superset TIME O O PERSON stative O O
+O O O O O O O cognition O O ACT ACT stative O
+O GROUP Function ACT O
+O O consumption O O EVENT O O EVENT O ACT stative O Scalar/Rank O O
+O stative O PERSON O O O O O O
+TIME O O communication O QUANTITY Circumstance O COMMUNICATION O O O O O TIME O O O motion O Purpose communication o O Manner O O
+O emotion motion O O O O O stative O O O O O O motion TIME Purpose possession O QUANTITY Quantity ARTIFACT O O O O O motion Destination O O O Experiencer O O O stative O O
+O O perception O O O cognition O COMMUNICATION RelativeTime O O EVENT O communication O O Or O Time O O EVENT O
+O O O ARTIFACT O O
+O ARTIFACT O cognition O O O Explanation O O GROUP O O O O emotion O TIME Location O O O
+cognition O stative O O FOOD O O ACT O
+O O O cognition O social o O Theme ARTIFACT stative Beneficiary PERSON O O O O O cognition O cognition O O O O O cognition O Purpose cognition O EndState STATE O
+O O O
+O ACT stative O O
+O O FOOD 2DArea O
+PERSON O PERSON O O PERSON stative O O O COGNITION O
+O O
+O stative O O change O O O O stative Manner O COMMUNICATION Time O EVENT TIME O
+O Location LOCATION O LOCATION
+Comparison/Contrast O PERSON Attribute O ARTIFACT COGNITION O
+B O O
+O GROUP communication O COMMUNICATION O perception O O stative Donor/Speaker GROUP O O O
+social O GROUP O O O O O stative O O
+O stative O O Topic O COGNITION O stative O communication o O Topic O COGNITION Function cognition Superset O
+O O possession Manner POSSESSION O O O communication O stative O POSSESSION O POSSESSION Theme O POSSESSION O
+ARTIFACT ACT
+PERSON stative O RelativeTime O social EVENT O
+O EVENT O motion O PERSON O O PERSON O O O cognition O GROUP O O O
+O Reciprocation O O ACT O O ACT O O O PERSON O social Patient O O O ARTIFACT O O ARTIFACT Location O ARTIFACT perception O O O NATURAL OBJECT O O social Direction O Destination O COGNITION stative O O O ACT O
+stative Location Location GROUP O O O O
+RelativeTime B O O TIME O O communication O 0 O O O cognition O 0
+O O cognition O creation SUBSTANCE InitialLocation LOCATION O LOCATION O O stative O O GROUP O
+O GROUP Function possession O O ARTIFACT
+O LOCATION O O O change Time O O O O stative PERSON Location O EndTime O communication O social COMMUNICATION O social social O O O O Location O O LOCATION Whole O LOCATION O
+O emotion O GROUP O
+O stative O O O O cognition PERSON O O
+O ARTIFACT O O O O O GROUP Location O O
+O O stative Location O O GROUP O O ARTIFACT O Location ARTIFACT Location Location LOCATION O O
+social o O O ARTIFACT O stative O COGNITION creation O
+Location O LOCATION O Whole O GROUP O O O motion 1DTrajectory O
+O ARTIFACT PERSON O communication Co-Agent O O communication O O O ARTIFACT O stative O O O O O O cognition o O O O O
+O O
+O FOOD O O O
+O social O O PERSON PERSON InitialLocation LOCATION communication PERSON O
+O COMMUNICATION O O Agent B GROUP EndTime O communication Theme O POSSESSION O stative Locus O COGNITION O stative O Beneficiary B GROUP O
+O social O O O communication O Recipient O Topic O ARTIFACT O O O communication O motion Destination O O
+O ARTIFACT ACT
+O O O
+PERSON O O PERSON O cognition O O O social o O O Attribute ARTIFACT O
+O O O O O stative FOOD 2DArea O O LOCATION O
+PERSON O stative Elements O O O
+Comparison/Contrast O SUBSTANCE GROUP ACT O communication O communication O O O ACT O stative O
+O O cognition O motion O O Time O TIME O
+O ACT
+O motion O Purpose possession O O ARTIFACT Beneficiary O PERSON O
+GROUP O motion O O stative O LOCATION ARTIFACT Manner O O O
+O O change o O O
+O Superset O O O GROUP stative O O o O O O Circumstance O COGNITION O O social O DeicticTime O TIME O O O
+O O cognition O O O O O O stative O O O COMMUNICATION Theme O PERSON O O O QUANTITY stative O O GROUP Location O LOCATION O O O O O O stative O O O COGNITION O O
+emotion O social O
+O stative O O O O FOOD Experiencer O Superset O O
+O COGNITION O O ACT
+O ACT stative O O O O FOOD stative O O O
+RelativeTime cognition Theme COGNITION Attribute NATURAL OBJECT O SUBSTANCE O perception O O O cognition O O change O O motion O
+O cognition O O COGNITION O PERSON O GROUP social 2DArea O stative O O O O O O stative O O O O O O stative O O O O O O
+O O communication Topic O ARTIFACT O
+PERSON O stative O O PERSON O
+O GROUP stative O O
+B O FOOD O O POSSESSION O
+O O cognition O O O O social O COGNITION Agent O GROUP PERSON O O GROUP O O PERSON O
+O GROUP stative Location O O SUBSTANCE ARTIFACT O O stative O QUANTITY Direction Location O GROUP O LOCATION O
+O FOOD Location LOCATION O
+O O communication O social O GROUP O
+O B communication B O cognition ARTIFACT ACT O communication o GROUP O O O
+PERSON O COMMUNICATION
+O PERSON O PERSON O 0 PERSON O 0 stative COGNITION O O social O O O O
+PERSON stative O O O Topic ACT Topic O STATE O
+O O communication O O O social O Purpose O COGNITION O
+B communication O O O stative o O Location O GROUP O
+B ACT GROUP O
+O stative O O O O GROUP O O stative EVENT O O O GROUP Location O O O stative O O motion Direction Manner O O COGNITION O
+O TIME Quantity ACT O O stative O PERSON Attribute O O O ARTIFACT O O
+LOCATION stative Location O LOCATION O LOCATION O
+O O communication O ACT O O O O O
+O ATTRIBUTE Possessor O GROUP stative O O O O cognition O O communication O O change O O
+O communication O communication O O O O LOCATION stative Location LOCATION O O O O stative Location O GROUP O O O
+GROUP O stative O LOCATION O O ATTRIBUTE O
+O COGNITION Species O ACT stative O O
+O O stative O Topic body O Location O O O ATTRIBUTE O O O cognition O O LOCATION O stative O
+O O cognition O O communication Frequency O O TIME O
+O motion Destination GROUP Explanation communication O Superset O COMMUNICATION O
+PERSON O social O O
+O O O
+O O communication O GROUP Recipient O O
+O O GROUP O
+O social O TIME Location GROUP O O O O motion O QUANTITY O Destination GROUP O Location LOCATION O social O O PERSON O PERSON O O O O social O O O
+Beneficiary O O emotion O O O QUANTITY Quantity O O GROUP stative O Destination GROUP O O O O O Superset O cognition Superset O O O Superset GROUP O O
+DeicticTime O O O COGNITION stative O O O stative POSSESSION O O POSSESSION O ATTRIBUTE ACT O PERSON PERSON O social O O O ACT Co-Agent GROUP O O O O communication O O GROUP O O O social Agent O GROUP O O possession O O Quantity POSSESSION Purpose stative Locus O O O COMMUNICATION O
+O Location LOCATION O
+PERSON O O B O communication o O Reciprocation social O emotion Stimulus O COGNITION O
+O stative O O ARTIFACT Time O TIME O O COGNITION ARTIFACT O Attribute O ARTIFACT O ATTRIBUTE Theme O ARTIFACT O O ARTIFACT O O O O O possession COGNITION GROUP O O stative Locus O ARTIFACT GROUP O O
+O O stative O O possession O POSSESSION Location O O O O O stative O stative O Whole O POSSESSION Purpose O POSSESSION O O O O stative Theme O O GROUP O O stative O POSSESSION O Purpose O O
+B Theme GROUP O
+O O O O
+O possession O O O O O consumption O O FOOD Frequency O Frequency O O
+Explanation O stative O Location ACT O PERSON O motion Location Purpose social o O O cognition O
+O B O O O O O COGNITION Value O POSSESSION O O
+0 O O O O Reciprocation O O ACT o O O
+O stative O O O Location O GROUP O O O O QUANTITY Location O RELATION Location O LOCATION O
+O ACT O O
+O PERSON stative O O O O O O O O O Circumstance O O O ARTIFACT O ACT stative O O
+O O O O O LOCATION
+PERSON O O stative Means O EVENT Theme O GROUP O O O O
+O O O O O O O cognition O possession O Recipient O O O O O cognition O possession O ARTIFACT O O O O O creation O ARTIFACT O O O possession O GROUP O ARTIFACT GROUP O 0 social O COMMUNICATION 0 Agent O O PERSON O O
+O O O stative o o O O O PERSON O O
+O ACT O
+O O O cognition O ACT O cognition Theme O O GROUP O O O cognition o o COGNITION O O O O social O O O motion Purpose O O FOOD O stative 0 O O 0 O O O O social O O o o COGNITION O
+O O O
+O communication O COMMUNICATION O O O communication O O O O
+O stative O O COGNITION O O O O motion O POSSESSION O Purpose possession O POSSESSION POSSESSION O O O possession o O O possession O Destination O POSSESSION O RelativeTime communication O Topic O POSSESSION COGNITION O
+FOOD O stative O O O
+O COMMUNICATION stative O Superset FOOD O Beneficiary B PERSON O
+O Purpose EVENT O O Purpose EVENT O O ACT O EVENT O
+B communication O
+O O social o O O Source LOCATION O O possession O Location O GROUP O GROUP O O O stative O COGNITION Species COGNITION O ACT O
+ACT O EVENT
+PERSON
+O GROUP O social O stative O O O O O O O O social O O O O O O Circumstance O TIME Quantity O O ACT O
+PERSON stative O O PERSON O O PERSON O O O stative O Time o o COGNITION O
+O PERSON O PERSON O social O GROUP stative O PERSON O
+O POSSESSION O O possession Theme ACT O O
+O O EVENT O O ARTIFACT change Location GROUP O
+communication O TIME O
+O O O GROUP stative State O O
+O O O motion communication O Quantity COMMUNICATION Topic O COGNITION Explanation O COGNITION O O O O O stative O
+O O O O cognition stative O stative O O O O TIME Circumstance ARTIFACT O
+O O O stative O ARTIFACT O ARTIFACT O change Agent O PERSON ProfessionalAspect GROUP O O
+O ARTIFACT O O motion O
+FOOD O stative O COGNITION O O O perception Comparison/Contrast FOOD O
+communication Purpose cognition O O stative O ARTIFACT O O O stative Goal O ANIMAL Duration TIME O O PERSON O communication O ARTIFACT O O O O stative O Beneficiary O O
+O possession o QUANTITY O Theme O ARTIFACT Attribute O O ARTIFACT O
+GROUP O stative O
+O O O O body O O O motion O O
+communication o o COMMUNICATION O O communication o O O O cognition O O
+O O RelativeTime possession O cognition O O O B O O POSSESSION RelativeTime perception O COGNITION O COGNITION O O stative O O O O
+O communication O GROUP Purpose COGNITION Topic O ARTIFACT ACT O O O O O social O Time O O O Explanation O ARTIFACT PERSON social O O O ACT O O O social O Theme QUANTITY Quantity O COGNITION Duration O TIME COMMUNICATION O O O O O O social GROUP Attribute O O ACT PERSON O
+O GROUP stative O O O stative O O O O cognition Purpose O O EVENT PERSON O
+O motion Destination GROUP O Purpose stative Destination GROUP O O O PERSON O motion O EVENT NATURAL OBJECT O O O
+O O FOOD O O FOOD stative O O B O O O O O FOOD stative O O O O O O O
+O stative O COGNITION COGNITION ARTIFACT O
+O stative O O GROUP Quantity PERSON O O O social O GROUP O O O O stative O O O O communication Theme O O cognition O O O stative O O O stative O O Purpose stative O O
+O O motion Destination GROUP O O O
+O O O O Location LOCATION O Location LOCATION O
+O O O stative O ACT O O O O O GROUP
+PERSON stative O
+O O COGNITION O Possessor O FOOD GROUP stative O COGNITION Activity cognition COGNITION Location LOCATION O
+O stative O O Location LOCATION O
+O stative O O O O Or O O stative O O COGNITION Topic O ATTRIBUTE O
+Explanation motion Destination O GROUP O possession GROUP POSSESSION O O stative O COGNITION O O O stative Direction O O
+O O O stative O O O O GROUP O change O O
+O cognition GROUP O O O O O GROUP O O O O O O O Location LOCATION O LOCATION possession O GROUP O O O Value O O POSSESSION O
+O PERSON communication O
+COMMUNICATION O FOOD O
+O B communication O O communication O Attribute O 0 O PERSON O O O O PERSON O stative O O O O O O O O Manner communication O 0 O
+O O O O communication O stative O COGNITION COGNITION communication Recipient O O O O O stative O O RelativeTime B O ACT O communication PERSON O O O O Purpose communication o O O STATE O O O cognition O O motion Destination O O PERSON O
+GROUP stative O O O O stative O O O LOCATION O O O PERSON stative O O
+O O communication O GROUP Recipient O O
+O motion Destination O GROUP O Time O O O O O stative O O COGNITION O
+O social O O O O O ACT ACT O
+O O
+O O emotion social O O O O cognition O stative O LOCATION O stative O COGNITION Possessor O O O COMMUNICATION PERSON O O
+O ACT O
+O ARTIFACT stative O O O O O O O ARTIFACT communication O O O COGNITION QUANTITY stative O O stative Attribute O O COGNITION Comparison/Contrast O COGNITION O
+O O stative O stative O ARTIFACT O O ARTIFACT O O ARTIFACT O O O ARTIFACT O ARTIFACT O O ARTIFACT O O O
+O communication O O GROUP stative ACT ARTIFACT O
+FOOD O motion Direction O O O O O O
+O stative O O PERSON cognition O O O O O ANIMAL O O social O o O Purpose cognition O O
+GROUP O stative O O EVENT O O O FOOD stative o InitialLocation O NATURAL OBJECT O
+cognition O O FOOD O
+O motion O O ARTIFACT Quantity SUBSTANCE O contact O Purpose cognition O Explanation O cognition O change O EVENT O
+motion Direction O
+O O social ProfessionalAspect PERSON Attribute O PERSON O O O PERSON Duration TIME O O O O emotion O
+O social O Duration O TIME O O POSSESSION stative B O O O O GROUP stative O B O O O O State O COGNITION O
+O communication ARTIFACT O O O O emotion O Purpose possession O
+O PERSON contact O ARTIFACT Whole O ARTIFACT O
+O B O communication Reciprocation PERSON social o TIME O Purpose social O O O O O stative o ACT Time TIME O
+O O O
+O O O GROUP Time TIME
+O stative O Location O TIME O stative O COGNITION O social Location O O ARTIFACT O O
+O O emotion O FOOD FOOD FOOD O
+PERSON ProfessionalAspect GROUP O O O social O O O ACT O Comparison/Contrast O COMMUNICATION O ATTRIBUTE Comparison/Contrast O ATTRIBUTE Possessor O ARTIFACT ARTIFACT O ACT COMMUNICATION O
+O O stative O BODY body Location O LOCATION O
+O cognition O O PERSON social ProfessionalAspect O GROUP O
+O O social O O O O emotion O O
+PERSON O O PERSON O social O o O O
+O O communication O O PERSON stative InitialLocation O ARTIFACT O O possession Purpose motion O LOCATION O O O O social O motion 2DArea O LOCATION O
+stative O O EVENT Stimulus O PERSON O O PERSON O O O stative O O O O O O stative O O ACT Theme O ARTIFACT O O communication O O
+PERSON cognition O
+O POSSESSION GROUP stative O O O
+O O ACT O O
+O O motion Direction Explanation O stative O O Superset GROUP O O O O O O
+O O perception Stimulus O O stative O O emotion O cognition O O O stative O O Stimulus O PHENOMENON O
+O motion O StartTime O stative O O
+O ATTRIBUTE O cognition COMMUNICATION O O O O FOOD stative O State O O Attribute O POSSESSION O O O COGNITION O GROUP stative O
+Locus O O EVENT POSSESSION O O O creation O O stative O QUANTITY Superset POSSESSION Approximator O O COGNITION O
+PERSON stative O COGNITION O Possessor O GROUP O O O O cognition O O O cognition O cognition O O ARTIFACT COGNITION Value O O POSSESSION O POSSESSION O
+O communication O O O O emotion O
+O O O stative O O GROUP stative O O O
+O cognition O stative O O O O cognition O B LOCATION Explanation O MOTIVE O O O O O O O communication O Duration O EVENT O
+O ACT stative O O
+GROUP O stative O COMMUNICATION Topic O EVENT O
+O COMMUNICATION stative O O COGNITION O O O
+O PERSON communication O GROUP Purpose change O COGNITION Time O O O communication O O
+O stative O BODY O O
+O O
+O O O
+O Or communication O O O stative POSSESSION Direction Manner POSSESSION O
+O O ARTIFACT GROUP O
+B O cognition O motion O O
+O GROUP O social Co-Participant O BODY PERSON O O stative O O O O cognition O O O emotion O
+O O consumption O O Time O O TIME O O O motion Direction O O O communication O O
+O social Location O LOCATION Location O LOCATION O RelativeTime O stative O O communication o O Locus O GROUP ACT O cognition O O PERSON InitialLocation O GROUP O stative ANIMAL motion Destination PERSON O Purpose O ACT O motion O O O
+O O O O motion Destination O GROUP cognition GROUP O O O stative O Comparison/Contrast O COMMUNICATION communication O O Comparison/Contrast O O O COMMUNICATION cognition O communication O O O O O emotion O O O O EVENT O
+RelativeTime cognition O O O Theme O PERSON O O O social O O O O O motion O
+O POSSESSION O stative O cognition O O ARTIFACT stative O O cognition O O motion InitialLocation LOCATION O
+O O O O communication O ARTIFACT Time O Time O TIME O O change O O motion O
+O O ARTIFACT O O ARTIFACT GROUP O
+O cognition GROUP O O Scalar/Rank O O GROUP Attribute O O PERSON O
+O O O cognition O cognition Stimulus O COGNITION Or O stative O O COGNITION Beneficiary O O
+PERSON O stative O O O O
+O ACT O O
+O Reciprocation change O ARTIFACT O B O
+O O O social O social O Time O O O O perception O GROUP Quantity PERSON O O motion Direction Manner communication o COMMUNICATION O
+O O stative O QUANTITY O O O O
+competition PERSON O
+O social o O O Value O O O
+O stative O O O O O O O stative O O communication O O PERSON O O O stative O Or O
+O communication FOOD O Donor/Speaker O COGNITION O O O O stative O O O
+O O O cognition o O O social O O ANIMAL O O cognition O O O O O social O ANIMAL motion Direction O
+O O possession O O O
+O GROUP O social o O O
+O ARTIFACT O O O Superset ARTIFACT O
+O COMMUNICATION O stative O O O O COMMUNICATION O stative O O COMMUNICATION O O O
+O ACT O
+O change O O O LOCATION ARTIFACT O
+O cognition Theme motion O O
+GROUP O O
+cognition Theme O COMMUNICATION O
+O O motion O O O O
+motion Instrument O ARTIFACT stative O O ACT EVENT O O stative O
+O O TIME RelativeTime O ACT O O O ARTIFACT stative O O O O SUBSTANCE PHENOMENON ARTIFACT O change O O O O O ARTIFACT O stative O O
+O COGNITION O COGNITION social stative O COGNITION Instrument O ACT COMMUNICATION O cognition ACT Theme O ARTIFACT COMMUNICATION O
+O stative O O O O O O stative O PERSON O social O O O
+O O Reciprocation social O stative O BODY O
+O ACT Theme SUBSTANCE O
+O O body o BODY O O O O consumption O ACT ARTIFACT O O O O change O BODY O
+O ACT O ACT O social O GROUP O
+O O motion Destination LOCATION Activity ACT O stative O O O EVENT O
+change O PROCESS O PERSON O
+stative O O O TIME O O O Location O LOCATION communication Recipient O O O PERSON O O cognition O emotion O FOOD O Location O ARTIFACT B O Or O O O FOOD change O O O O O FOOD perception Comparison/Contrast O O FOOD O
+StartTime O EVENT O motion O GROUP O O cognition O stative O O O O
+O communication O GROUP O O O O
+COMMUNICATION O O o O O communication O O social ACT stative O TIME O Scalar/Rank communication O
+O ARTIFACT Comparison/Contrast O O O stative State O O
+O EVENT O O stative RelativeTime stative Location O LOCATION Duration O TIME O O O social Means O FOOD COMMUNICATION O
+COGNITION O ARTIFACT
+O O O social Location LOCATION O O O O O ACT stative O O O O ACT O O
+O motion O O COGNITION O PERSON O Time O TIME O O O O O Elements O O COGNITION ARTIFACT O O cognition O stative COGNITION O O O
+O O
+O cognition O social O Manner O Explanation O O O COMMUNICATION Theme O FOOD Quantity FOOD O stative O O B O O O O O O O O
+GROUP O O O O
+O stative O O emotion O O O stative Location O LOCATION O O O O stative o Approximator O o ACT o ACT O O
+O emotion O ARTIFACT O O stative communication O ACT O O O O POSSESSION Possessor O ARTIFACT O O
+O ARTIFACT ARTIFACT ACT Location O Whole LOCATION
+O O O O O
+O FOOD O O ACT O
+O stative O POSSESSION Location O O motion State O O
+social o o ACT Theme change O ARTIFACT Location LOCATION O
+O motion O O ARTIFACT O ARTIFACT O O cognition change Explanation O O O O cognition O O change O
+O
+O cognition O change O ATTRIBUTE O
+O COGNITION O stative O O O stative O O Quantity NATURAL OBJECT Location O LOCATION Donor/Speaker O PERSON O PERSON O
+O stative O O PERSON O O O social Location O LOCATION O
+O FOOD O O motion Direction Attribute communication O O FOOD O O
+O O cognition o PERSON O Purpose social O O O O O EVENT O motion O O cognition O O Theme communication O O PERSON O social o PERSON o o Recipient O PERSON Purpose communication O O O O O FOOD stative O
+social EVENT Time O TIME TIME O
+O O ANIMAL O O O O perception DeicticTime O
+O GROUP stative O O Activity cognition O O ANIMAL Beneficiary O O O social o ANIMAL O stative O O
+O PERSON O creation O O FOOD stative O O
+ACT O GROUP O O O O
+O motion O ARTIFACT Direction Purpose O O EVENT O O
+O O O O O O O ARTIFACT O stative Location O ARTIFACT change O O
+O ARTIFACT O stative O O O O cognition O PERSON Purpose motion O change O O
+O O social O O O O social O DeicticTime O TIME O
+O COMMUNICATION Function O O GROUP O
+O PERSON
+O change O motion O FOOD InitialLocation O LOCATION O motion O Destination O LOCATION O communication Recipient O communication O 0 O O O communication O O O O cognition Topic 0 O 0 O O O cognition O FOOD O creation 0 O
+GROUP stative O Superset O O GROUP Location LOCATION O O
+change O QUANTITY Superset O PERSON O O O Location ARTIFACT O O perception O O
+O O O creation O O QUANTITY Quantity FOOD O
+O cognition O O Comparison/Contrast GROUP O O stative O O O O O emotion O O social o O Attribute O ARTIFACT B O cognition o O O ARTIFACT O O body Time EVENT O O O O o O O
+O ARTIFACT stative O O O O PERSON O PERSON stative O O PERSON O O GROUP stative O O O O O LOCATION O LOCATION stative O O
+O O O O social O O TIME O O O O TIME O
+O O ACT stative O O
+O stative O O
+PERSON
+O O O O O motion O SUBSTANCE ARTIFACT Direction O O O possession O O O Value ARTIFACT O
+O O O FOOD O O
+O O cognition O stative O GROUP O Location O GROUP O O O O O O O O cognition Theme O O GROUP Attribute O O FOOD O ACT Location O LOCATION GROUP O O stative O COGNITION O o o O O
+change ARTIFACT O social O ACT O
+O O possession O O O emotion O
+O O PERSON O O O motion O cognition O O stative O FOOD O cognition O Quantity FOOD O O O O cognition O O stative O O GROUP O
+LOCATION O O communication O stative LOCATION O O O stative O QUANTITY O Location LOCATION O O O Location LOCATION O
+O stative O O QUANTITY Value O O POSSESSION O O stative O FOOD O consumption o O O O O O O O perception Comparison/Contrast O consumption Or O O
+O O emotion O communication O Reciprocation O ACT ACT o stative Patient O ARTIFACT O
+O O O stative O stative o ARTIFACT O O O
+O O O motion Or O
+B O O O O O LOCATION O cognition O ARTIFACT O O
+O GROUP cognition O O O stative O
+O O O social O O stative O O stative O O social O O O O motion O Or O O O
+O ACT O
+O O O O GROUP stative Location O O LOCATION O O FOOD stative O
+O O communication GROUP O O O O
+O PERSON ProfessionalAspect GROUP O O stative O O O O O social ProfessionalAspect O
+O social O communication O Means communication O O O O body o o O Location GROUP O Location LOCATION O O
+O O O
+O stative O O O GROUP O O O motion Destination O O O cognition O body Patient O BODY O O stative O O O perception O O social Destination GROUP O O stative O
+Explanation perception Stimulus O COMMUNICATION O perception O O COMMUNICATION FOOD O stative O O cognition O stative O O O O O
+O O motion Purpose social O O ARTIFACT O O O cognition O cognition O O O O TIME social O social O
+O social ProfessionalAspect PERSON Duration O TIME O stative ACT O PLANT O
+O Beneficiary PERSON
+O GROUP stative O O Attribute O O ATTRIBUTE O O ATTRIBUTE O O O FOOD stative O O O O O O FOOD O O O
+O cognition O O GROUP O O O O POSSESSION ACT O
+O O stative O O O Topic O COGNITION Species COMMUNICATION stative State O O O
+cognition Comparison/Contrast O O cognition Stimulus stative O POSSESSION O motion LOCATION State O O O ACT Beneficiary O GROUP Extent O O
+O O QUANTITY communication Recipient PERSON Explanation O O ACT O
+O O social O O EVENT O O TIME DeicticTime O StartTime Or O O stative PERSON O O O O O stative State O O O
+O PERSON communication O stative Approximator O TIME ACT O
+stative O O TIME O GROUP O change O ATTRIBUTE Manner O COGNITION
+ANIMAL stative O O COGNITION O O O O O
+O cognition O motion RelativeTime motion Location O O O O
+O emotion O GROUP O Quantity PERSON Function communication Recipient O GROUP stative Location O LOCATION O
+cognition O O O motion Direction O
+PERSON social social O QUANTITY Whole O GROUP O COMMUNICATION O O O O O stative O O
+O O O motion O LOCATION O O O O O stative Locus O COGNITION COMMUNICATION O O
+O O O possession O ARTIFACT Donor/Speaker PERSON O O
+GROUP O Location LOCATION O stative O O O ARTIFACT PERSON O O O communication Destination O Agent O PERSON O O stative O O O social O Purpose O ARTIFACT ACT O O ACT O
+O stative O ARTIFACT body O O O
+O O communication O O O body Patient O GROUP Whole GROUP O O O O O stative O PERSON O
+Explanation O cognition O O COGNITION O O cognition O O ARTIFACT change O O O O change O ARTIFACT O
+cognition O O O O O O COMMUNICATION COMMUNICATION O stative O O Beneficiary O GROUP PERSON O social O O O cognition O O change stative O O O perception COMMUNICATION O O
+O stative O O Stimulus O ACT O O ARTIFACT O
+O communication Location O LOCATION O O stative O COGNITION Function POSSESSION Location O POSSESSION O POSSESSION O
+Locus O Superset O COMMUNICATION O contact O COMMUNICATION Donor/Speaker O PERSON O O communication O FEELING O O GROUP stative O O
+O O O FOOD O O O stative Location LOCATION O O O O O O COGNITION Possessor O O O
+O O O COGNITION Instance O O O ARTIFACT GROUP stative O O O O O COGNITION O
+O O O O PERSON O
+O GROUP O ACT O O
+O O cognition O FOOD O motion Destination GROUP O
+O ARTIFACT stative O O O
+O O GROUP social stative O O O O O
+O O cognition O O O O possession DeicticTime O
+GROUP O O O TIME
+0 PERSON O 0 stative O PERSON O
+O social Location O O O O stative O LOCATION O O
+O O GROUP O O communication O O
+O cognition O ARTIFACT GROUP change O
+O stative O O O ARTIFACT O ACT GROUP Location O LOCATION O O cognition O O
+motion Direction O social GROUP o COGNITION O Extent O O
+O stative B O Experiencer O GROUP O O stative B O O O O
+O O stative O O 0 O O O 0 cognition StartTime O O social ACT Co-Agent O
+O stative O O POSSESSION O O O ACT O O
+O ACT O O POSSESSION
+O O O motion O ANIMAL O O
+O social O O ATTRIBUTE O ANIMAL O O TIME Donor/Speaker O GROUP O O O
+O PERSON
+O O communication O Recipient O O
+O GROUP
+O ACT PERSON stative O O
+O
+O
+PERSON O O GROUP stative O O
+O stative O O GROUP O O O cognition O O motion Purpose social O PERSON O O O O InitialLocation LOCATION O
+O O stative Approximator O ACT stative Patient O O ARTIFACT O
+COMMUNICATION O COMMUNICATION O O O
+ACT O O O O
+O motion Purpose cognition O O PERSON stative O GROUP PERSON O O
+O O O O possession o O O ACT O O O O O cognition O O O possession O O O O O ACT O POSSESSION O
+O O
+O PERSON motion State O O O O social o O O O motion o O O O change o ACT O O O O
+O O stative O PERSON O O O O O O O O stative O ARTIFACT O COGNITION cognition O Agent O PERSON O O O O social O RelativeTime O RelativeTime GROUP O O social O ACT O
+O ARTIFACT O B O O LOCATION ARTIFACT O LOCATION O
+O ACT GROUP O motion o o O Direction O motion o O O O ARTIFACT stative O O
+O Donor/Speaker PERSON
+O stative O O PERSON O O
+O stative O O
+O communication O O O cognition O LOCATION O O stative O social O O O O stative Location LOCATION O
+O O O motion Destination O GROUP O O
+ARTIFACT O O O O O O O O O O
+O Elements O ARTIFACT stative O RelativeTime O motion o O O
+social O O COGNITION Instance social O GROUP O Purpose cognition O O cognition O O
+O motion ACT social O social O
+O O cognition O possession O GROUP O O stative O O O Stimulus O O PERSON O O social O
+O O communication O O stative Location O GROUP O LOCATION Location LOCATION O O creation Time O O O O motion Destination O LOCATION O
+O ACT ACT O O O stative O
+O O stative O O O GROUP Location LOCATION O
+O stative O Superset O O GROUP Function consumption Circumstance EVENT O
+O stative O O FOOD FOOD Attribute O COGNITION Theme FOOD O FOOD O FOOD O O FOOD O FOOD O FOOD O O FOOD O O
+O O cognition O ARTIFACT Means O ARTIFACT
+O PERSON stative O State O O O communication Topic O PROCESS Possessor O ARTIFACT O
+O PERSON O communication O stative O O COGNITION O stative O PERSON O body o O O O O O O communication possession O GROUP O O stative O O O POSSESSION B O Purpose ARTIFACT O O PERSON EVENT O
+O O O PERSON O communication O Recipient PERSON O stative O O Purpose O O O stative O O
+O O O O O communication O PERSON stative O O PERSON Function social ProfessionalAspect O Explanation O O O COGNITION O O O O O O stative O O O PERSON O O O PERSON O
+O O stative O O State O o O O O communication O O O O cognition O O stative O O O
+FOOD O O FOOD O stative O O
+O GROUP O O change O stative GROUP O
+O possession O COGNITION O ACT ARTIFACT O O creation O ARTIFACT COGNITION O O creation O change Co-Theme O ARTIFACT O
+O O O O possession O O TIME O social O O O social O O stative O O motion O O InitialLocation O O ARTIFACT O O
+O O O O O GROUP O O O
+O O PERSON O PERSON O O stative O O O COGNITION O O O O Stimulus O social o O O O COGNITION O O social O
+O stative O O Topic O COGNITION Possessor O O PERSON O O O O O cognition Source O EVENT O PERSON O O O stative O O PERSON O o O O O stative O O O O O O
+O O communication ACT O O O ACT O cognition O O
+Attribute O O COMMUNICATION PERSON O O cognition Co-Agent O cognition O possession O ARTIFACT Purpose O POSSESSION O O emotion O O motion O Accompanier O PERSON O
+O O O communication O O O O emotion O O O stative O ARTIFACT PERSON O O O stative O O O Stimulus O COMMUNICATION O O O O communication O Recipient O PERSON O cognition O RelativeTime motion Direction O
+O COGNITION stative O O O O motion O O O cognition O social Approximator O O TIME O perception O COGNITION O PERSON O social RelativeTime O O
+O O communication O O COMMUNICATION O Co-Agent O PERSON O change O O COGNITION O
+O social O PERSON Purpose O ARTIFACT ACT O
+O B O PERSON O
+O stative O O
+O stative O B O social Location O GROUP Attribute PERSON Comparison/Contrast O O O communication O possession O O ARTIFACT Value O communication POSSESSION O RelativeTime communication O O cognition O O O
+O communication O
+O O O stative O Whole O O FOOD O O O stative O COGNITION Instance communication O
+O O stative O O O O O FOOD GROUP Location O LOCATION O GROUP O stative O PERSON O O GROUP O O O O
+GROUP O O communication Agent PERSON Explanation O social o ARTIFACT O Location LOCATION O
+O stative
+O ACT
+O O
+O O
+Or O O Experiencer O O Superset O O social Manner O O QUANTITY Quantity FOOD stative O social Purpose O O O consumption O FOOD InitialLocation O BODY O O O O O O FOOD Quantity FOOD O stative O O O PERSON FOOD O O
+O stative O O O O
+O cognition O GROUP stative O O O O cognition Instrument O COMMUNICATION Locus O O
+communication Destination O COMMUNICATION Purpose POSSESSION O communication O GROUP O O O stative O ACT O
+O LOCATION
+O O O stative O O Purpose O FOOD O FOOD O
+O O communication O Attribute O ACT POSSESSION O
+O O communication O O communication 0 Time O TIME O ARTIFACT O social O O O stative O Direction O 0
+O LOCATION O stative O O O
+social o O O O
+O O O O O cognition O Purpose O O ACT ARTIFACT O O O communication O O COMMUNICATION O GROUP O communication O O 0 O ACT PERSON stative O O TIME 0 O O O O
+O possession O O O TIME O O O ARTIFACT InitialLocation O GROUP O
+B O Recipient O cognition O stative COMMUNICATION O
+O O GROUP O O O cognition O Scalar/Rank O O O COGNITION Whole ACT O
+O O ACT O stative O COGNITION O stative InitialLocation LOCATION O stative O O O COGNITION O O
+O O O social Time TIME O O stative O O O O communication O O stative O O change O O TIME POSSESSION O O O O motion Direction O
+GROUP stative O O GROUP O O O O O O
+O ACT
+O PERSON communication O stative O O O O cognition O O O O cognition O GROUP O O Scalar/Rank O O O
+O O O social O Co-Agent O GROUP O
+FOOD FOOD stative O COGNITION O O O B communication GROUP O O
+PERSON O social o O O ACT O stative Attribute O O O O COGNITION O COGNITION O
+O ACT O
+O communication O O O GROUP Location O LOCATION Purpose communication POSSESSION O O stative O O O O cognition O O O O
+O O motion Destination GROUP O O social O O PERSON O cognition O cognition O O
+O O B communication PERSON Recipient O cognition Theme O ARTIFACT Location O LOCATION O O
+O O O FOOD ARTIFACT O O
+O stative O O GROUP Function social O
+O O communication O social O PERSON O
+O O PERSON Location O change social O communication O stative O O O O O O O emotion O BODY O
+O O O O O O
+O ACT O O
+O O O consumption O Approximator O RELATION Superset O FOOD O O FOOD perception O O O
+O
+O O possession O FOOD O
+O O O possession O Theme Approximator O O O O stative O stative O O
+O O O communication O COMMUNICATION O change O
+O NATURAL OBJECT stative O O O emotion O O stative O O O social O EVENT DeicticTime O O O O NATURAL OBJECT O possession Donor/Speaker PERSON cognition O O O
+O o o ARTIFACT O O O COMMUNICATION ARTIFACT O stative Co-Theme O O ARTIFACT O
+O O O consumption O FOOD O O O O stative O O O O
+O O motion O B O O ARTIFACT GROUP 2DArea O LOCATION O GROUP O stative Extent O O O O
+O ATTRIBUTE O ATTRIBUTE stative O O
+O O communication O O O cognition Topic BODY ACT O O communication Topic O COGNITION COGNITION O Co-Agent PERSON O O O
+O O O
+O O
+O O cognition O O O FOOD O B POSSESSION O O FOOD O stative O
+O stative O O O
+O ACT Accompanier O ACT O
+O O O O O GROUP Function PERSON State O O STATE
+O social O O O cognition O O stative communication O O cognition O change RelativeTime O social o O O social o ACT O O
+O GROUP cognition O O O O O O
+O FOOD O stative O O ARTIFACT O
+O ACT O O O FOOD O
+O ARTIFACT O O contact O
+O body O O stative O O O ARTIFACT stative O O O EVENT stative O O
+O O O ACT stative O O O O change O O motion O O O TIME O
+O O O stative O O O O O stative O Location O LOCATION O stative Location O O O stative O GROUP O Location LOCATION 1DTrajectory O LOCATION O
+O FOOD stative O O O ACT stative O O
+O social o o ACT O
+cognition O O contact O FOOD Location O FOOD Purpose stative O O O
+O GROUP stative O O O O O social O O
+O GROUP O
+O ACT O
+O stative State O Stimulus O O QUANTITY Quantity FOOD O
+O COGNITION
+O cognition o O O O O O O O perception O Purpose stative O O O social O O
+O stative O O O O O
+O O B O ARTIFACT O O O O GROUP stative O
+O COGNITION stative COGNITION O O O GROUP stative O O O
+O stative Approximator O RELATION Whole O POSSESSION Possessor O O POSSESSION O stative O O O ACT stative COMMUNICATION O O
+O stative O O O stative O O communication O O O stative O O O O
+O ACT LOCATION stative O
+O cognition O O O O O B communication O O
+O O stative Manner O O COGNITION O O O change O possession O O TIME O O GROUP stative O O
+O ACT O
+O O O O O cognition O O possession Purpose change O O O
+O possession O ARTIFACT O
+O O O O O O O stative O O POSSESSION POSSESSION Value O O O O O O Time TIME O O O O O O PERSON stative O communication Theme O COGNITION stative O O O O O O stative O possession O POSSESSION O O
+O O O cognition O
+O O PERSON body O O TIME RelativeTime O PERSON stative O O O
+COGNITION O
+O PERSON LOCATION
+O Beneficiary O PERSON O O emotion O ARTIFACT O O O cognition O communication O O stative O O O O O O O O O
+GROUP O stative O O Theme O COGNITION O O PERSON O social O O O social O cognition O O COGNITION O O cognition O O
+O O O O ACT O
+O GROUP stative O O O O O
+O O O communication O PERSON O O communication O MOTIVE Manner O COMMUNICATION O
+O O O O O PERSON stative O State O 0 O O O O O 0 ATTRIBUTE O
+O motion o ARTIFACT O Time O TIME Purpose change O O ARTIFACT O
+O O O communication O Or O O O communication O O O O O motion 1DTrajectory LOCATION O
+O emotion O LOCATION O O ARTIFACT O
+O O stative social change Patient O ARTIFACT Location O GROUP O O O stative O O O O O O possession GROUP POSSESSION O O O cognition POSSESSION O O O
+B O stative O O O
+O PERSON stative O O O O O
+COGNITION stative O O O cognition O O O stative O ATTRIBUTE O
+O PERSON Location LOCATION
+O ATTRIBUTE O O O LOCATION O social O O O O emotion O O EVENT O motion Direction O
+O COGNITION
+O O stative B O TIME RelativeTime O O motion O GROUP O
+O O O O cognition O O O ACT O O ARTIFACT O
+O ACT O ATTRIBUTE
+O O PERSON O social O O ARTIFACT O O stative O O O
+O ACT O O ATTRIBUTE O O ATTRIBUTE O
+O stative O O stative O O EVENT O O EVENT PERSON social O O GROUP DeicticTime O O O O O
+O cognition O O RELATION Patient FOOD COGNITION O Approximator O O O O RELATION Patient COGNITION RelativeTime O O EVENT O
+B communication O
+O FOOD O perception O O O O O cognition o O O O O O PERSON O
+O PERSON O O social ProfessionalAspect GROUP O B O O
+O Superset O FOOD GROUP perception B O Experiencer O O O O stative O Co-Theme O O stative O ACT O O POSSESSION O
+O FOOD O FOOD Location O LOCATION O
+O emotion GROUP O
+O O O NATURAL OBJECT O
+O possession O Approximator O POSSESSION O O stative O ACT Patient FEELING O
+O stative O O Stimulus O EVENT O O
+O O O O cognition O LOCATION O Attribute O O GROUP O O O stative O ATTRIBUTE O
+O ATTRIBUTE ATTRIBUTE
+GROUP stative O O O
+O O ARTIFACT O O FOOD O O O consumption O
+O O O O O O O O O
+O O GROUP O
+O stative O O O O FOOD GROUP O
+O O O O
+O cognition O O O possession O Whole O FOOD O FOOD O
+PERSON O cognition o O O O
+O FOOD O stative O O O
+O stative O O
+GROUP cognition ACT Agent PERSON
+social ProfessionalAspect PERSON O stative O O EVENT social Co-Agent O PERSON O O O O O cognition O O cognition O
+O motion o Direction O Purpose stative O change O O O Approximator O O TIME O O O ARTIFACT change O O
+O stative O cognition O O O emotion O
+O O O O EVENT O O O
+QUANTITY O O O O O O social O POSSESSION O O POSSESSION O
+O GROUP stative O O O O O O motion O O
+O stative O O O O O O O O O O O B PERSON O O cognition Stimulus O GROUP O
+O emotion social ProfessionalAspect O O O COGNITION O GROUP O O communication Recipient Oo O
+PERSON O stative O PERSON PERSON O O O O GROUP Superset O GROUP stative O O
+O O O O stative O social O GROUP Location ACT O
+O O B O o social O O FOOD O O stative O PERSON Topic B O FOOD O GROUP O O O O stative O Purpose social O O COGNITION O
+O O cognition O O social O O O Explanation O O STATE stative O O Manner O O COGNITION O O emotion O O PERSON motion O O emotion O O GROUP cognition Stimulus O FOOD O
+GROUP O O O stative O O
+RelativeTime O NATURAL OBJECT O change O O O possession O O ARTIFACT Quantity FOOD O
+O O GROUP Location LOCATION
+O O O O ARTIFACT O GROUP stative O O FOOD O O cognition Location O LOCATION LOCATION O
+O GROUP stative O o COGNITION O stative O O social O O PERSON O O O PERSON O
+O O stative O PERSON Possessor PERSON O Duration O TIME O O possession QUANTITY Quantity POSSESSION Theme ARTIFACT O O
+O ATTRIBUTE ANIMAL FOOD Value O O POSSESSION O
+O
+emotion O ARTIFACT Location LOCATION
+O O consumption O O EVENT RelativeTime O O stative O O O ACT O stative O O EVENT O O GROUP O cognition O Attribute O O O O O
+O O motion O
+O B communication O GROUP O O O O emotion O cognition Topic POSSESSION O social O ACT O
+O PERSON O O social O O O emotion Agent O O GROUP O
+O social O O O Purpose change O ARTIFACT O O O O O stative O O COGNITION Species ARTIFACT O perception Comparison/Contrast ARTIFACT O Purpose change O ARTIFACT O
+O O EVENT O O
+O change O COMMUNICATION Locus O COGNITION O
+B COGNITION O motion Destination O GROUP O O
+O O body O BODY O contact O BODY Direction O
+PERSON stative O O O O O O
+O O
+O creation FOOD O O O O O O contact O FOOD O stative O COGNITION O emotion O O O O FOOD stative O O O
+ARTIFACT O O
+O O ACT ACT Beneficiary PERSON cognition ACT Theme O O GROUP O ACT O
+O ACT O ATTRIBUTE O O
+O PERSON O PERSON O stative O O O O O stative O O O Stimulus O COMMUNICATION O
+O O cognition O O O stative O
+COGNITION O O O O PERSON
+O ACT GROUP
+O stative O O O social O O O Purpose cognition O O PERSON FEELING O social O O O
+O stative O PERSON Location O LOCATION O ARTIFACT Function O O O O ARTIFACT Function ARTIFACT O O
+FOOD stative O O
+O stative O Comparison/Contrast O PERSON Comparison/Contrast O PERSON O O social o O o O O communication O O PROCESS O O O O Or Time O stative O O
+stative O O O O communication COMMUNICATION O O stative O COGNITION GROUP O O GROUP O ARTIFACT GROUP O
+O O
+O O COGNITION stative O GROUP social Agent O O stative O ATTRIBUTE O GROUP PERSON O
+B stative O COMMUNICATION O O COGNITION Species POSSESSION O
+O social O
+O O communication O Function O TIME O 0 cognition Approximator O O TIME 0 O
+O ARTIFACT O ARTIFACT
+PERSON
+cognition O social O O O
+O B communication GROUP O Beneficiary O social O O EVENT Beneficiary GROUP O GROUP O GROUP O
+O COGNITION Function FOOD EVENT O FOOD O O FOOD COMMUNICATION O O
+O GROUP stative O O
+O POSSESSION Theme SUBSTANCE O O
+O O O social QUANTITY Superset ANIMAL O O O O GROUP O O O O social O O O O PERSON O stative O COGNITION O COGNITION Topic O O social O O ANIMAL social O ANIMAL O
+O O O O
+O cognition O O O O stative EndTime O motion O Destination LOCATION O
+O GROUP O O O O
+GROUP O stative O COGNITION O Experiencer O O Superset O GROUP PERSON O body O O O
+O O O O O Superset O GROUP O O O social Destination GROUP O O O O
+O O social O GROUP O
+O O GROUP stative O O social o O possession COMMUNICATION ACT POSSESSION O
+O ARTIFACT stative O O O COGNITION O O stative O O
+cognition O GROUP stative COGNITION Theme GROUP O
+O cognition O GROUP cognition o o POSSESSION PROCESS O O
+O O O
+O social Co-Agent O Duration Approximator O TIME O social O cognition O O ARTIFACT O
+O O O O O stative O COMMUNICATION O O O O O O O O communication O GROUP O O stative O COMMUNICATION COMMUNICATION O stative O O O O O Location O GROUP O
+O PERSON O motion o ARTIFACT O O O Purpose O O ACT O O
+COGNITION stative O Stimulus O O O
+O
+O stative O O O O O
+O O O O social O change O O O BODY Explanation O O STATE O O
+O O O O O O cognition Theme communication O GROUP Location GROUP O Purpose O O ARTIFACT ACT O O O GROUP O Reciprocation O ACT O
+O O O O cognition O Topic stative B PERSON O O
+O B Superset O O PERSON cognition O O O O O PERSON O
+O Location LOCATION O
+social O FEELING O PERSON O
+O ACT stative O O O O
+B communication O
+O PERSON stative O O TIME O O motion O O motion O O
+O O PERSON O O perception O Beneficiary O B o stative o O O O
+cognition communication O COMMUNICATION O social O o COGNITION Theme O O EVENT O O
+O FOOD stative O O O O stative O PERSON O
+motion O O RELATION Destination GROUP O O
+O GROUP O
+O stative O O O O Comparison/Contrast social O ARTIFACT Comparison/Contrast communication o O O
+ARTIFACT stative O O
+O GROUP stative O
+O ATTRIBUTE ACT ARTIFACT O communication 0 O 0 O O PERSON O cognition O stative O O Superset O GROUP O Comparison/Contrast O O O Superset O GROUP communication O O O stative O TIME O
+O O O social O O O TIME Explanation O social Location O LOCATION O emotion O FOOD O FOOD FOOD O
+O cognition O O O O O O O
+O O O motion Destination O O O
+O motion O Duration O TIME O O O stative O O
+O O emotion O GROUP O
+O O O communication O GROUP Recipient O O O O O stative o O O PERSON O O ATTRIBUTE O
+O O cognition O GROUP O stative O O B O social Co-Agent O stative O O O
+O PERSON GROUP
+O GROUP Attribute O O PERSON O O stative State O O Purpose communication FOOD O stative O O O O
+O O ATTRIBUTE social O
+O stative O O O O O O O O O PERSON Attribute O O ATTRIBUTE O O O
+O stative O COMMUNICATION Scalar/Rank O O
+O O
+O O O O O O O O O cognition O O consumption O
+O Superset O O O
+O ATTRIBUTE O
+O communication O COMMUNICATION Purpose cognition O Topic O GROUP Locus COMMUNICATION O
+O EVENT O O O possession O ARTIFACT O
+O GROUP stative O Extent O O
+O O social O GROUP Purpose O NATURAL OBJECT O change O Superset ARTIFACT O social ACT ARTIFACT O O EVENT O O
+O O O GROUP O
+O cognition O O O stative O
+O O O O communication O 0 GROUP O O stative O O O 0
+O O O O O O change DeicticTime O TIME O O O O O O stative O O stative O O O TIME O
+O GROUP stative O O O O O stative O O O Theme O GROUP O GROUP O
+O O social O communication O O PERSON social ProfessionalAspect O LOCATION Topic O ACT LOCATION ARTIFACT O O O communication O O O O O O motion O O
+O stative O social O O cognition O O O stative O ACT COMMUNICATION O
+B O stative O O O ACT O O PERSON O PERSON communication Topic O BODY O EVENT O motion O communication O stative O O ATTRIBUTE O O O possession O
+O stative O O O O perception O ARTIFACT O
+O stative O O COMMUNICATION Theme GROUP O O O PERSON O PERSON O
+O cognition o O stative O EVENT O COGNITION O GROUP Beneficiary B GROUP O B cognition O O O O O possession o O Topic O emotion O COGNITION O
+O O O O O change O O GROUP O stative O O
+O O communication O O O O COGNITION LOCATION ARTIFACT O stative O O O O PERSON O cognition O B COGNITION O Experiencer O O O
+GROUP O Location LOCATION stative O O QUANTITY O Attribute ACT O ATTRIBUTE Possessor O FOOD O
+GROUP O LOCATION
+O O stative O PERSON Stimulus STATE O O social O O O PERSON O O O stative O GROUP Beneficiary O O
+ANIMAL stative O O O social O Scalar/Rank O stative O social O O
+O O
+O stative O O Scalar/Rank O O cognition O
+O O O O O O LOCATION COMMUNICATION O cognition Causer O stative O COMMUNICATION O O O FOOD FOOD stative COGNITION Location O GROUP O LOCATION O
+O O GROUP O
+O O possession o o O O O possession Manner POSSESSION O
+O O O emotion O GROUP O
+O O O O O O
+O GROUP ProfessionalAspect GROUP O O social Scalar/Rank O Scalar/Rank O O O O O possession O Direction O ARTIFACT O O motion O O O emotion possession O
+O ARTIFACT GROUP O O LOCATION LOCATION O O O O
+O O O motion O O O change O O O
+O TIME O motion Direction O O O cognition O O ARTIFACT O stative O ATTRIBUTE O
+O O stative O O O O stative O O O Patient O ARTIFACT O
+PERSON O O O GROUP Quantity PERSON stative O O
+O cognition O O stative State O o COGNITION O O O O social Co-Agent O O O O O Or stative O O
+O stative O O Stimulus O ARTIFACT ACT PERSON O O social O O
+O O O cognition GROUP GROUP Duration O O TIME O O cognition O cognition O O O PERSON O O PERSON O
+O O cognition GROUP O Reciprocation stative O O EVENT O O Means O O FOOD O ACT O
+O O COGNITION O communication Location O LOCATION O O
+O FOOD stative O O O ACT stative O O
+O POSSESSION stative O O O O O stative O O cognition O O O possession Theme O
+O O COGNITION O
+O emotion GROUP O O
+O O O O
+O GROUP cognition O ACT O O social O O O
+O O ARTIFACT GROUP
+O O TIME O O O ARTIFACT change O O
+O GROUP COGNITION stative COGNITION O COGNITION O
+O perception GROUP O O creation O O O stative O O O O
+O O O motion Direction O social O GROUP O O
+O GROUP O O O O O
+O O Or O communication O change O POSSESSION Purpose social O POSSESSION O O O stative O Theme O
+Or O O O COGNITION O social Recipient PERSON O O O O LOCATION stative O
+Attribute O ACT GROUP O O O O O stative O O O O ACT creation COGNITION O
+ARTIFACT EVENT
+GROUP PERSON Attribute O TIME
+O Superset O O GROUP
+O O cognition O creation O FOOD O stative O O O FOOD O O O emotion GROUP O
+O O stative O O Superset O PERSON social GROUP O O O
+cognition O O O GROUP O Location O O Activity O O O O stative O O
+O O stative O O Topic COGNITION O
+O LOCATION O GROUP stative O O O O O
+O social O Recipient O O O stative O FOOD O
+O social o O O social O O ACT O stative Approximator O O TIME O QUANTITY Quantity O ARTIFACT Direction O social Direction O change O O ARTIFACT Location O SUBSTANCE ARTIFACT O O O O motion O Direction O Location O O O ARTIFACT O O O
+O GROUP stative O O O O BODY stative O O O
+O TIME O motion Destination O LOCATION O Location O O LOCATION Circumstance O EVENT GROUP O
+O GROUP O
+O PERSON O O social O O StartTime O EVENT EndTime O EVENT Whole TIME O
+O O O POSSESSION
+O stative O O O communication O Destination O Purpose O O GROUP O
+O FOOD Species FOOD O FOOD O FOOD stative O Or O
+State O O O
+O ANIMAL ACT
+O FOOD O O FOOD
+O PERSON social O stative O O COGNITION O O O
+Elements O O O O O communication social O O O
+O O O consumption O DeicticTime O O TIME O FOOD O Accompanier O O FOOD O
+Circumstance o EVENT O PHENOMENON stative Explanation O STATE O Circumstance o EVENT O GROUP O O O cognition O cognition O O
+O cognition O possession O O O O O Donor/Speaker O O O O O stative O o O O O
+ATTRIBUTE Location LOCATION
+O ARTIFACT O O O stative Location O O LOCATION O O O social O Location O O O
+O O social o O Value O O POSSESSION O
+O B communication O GROUP O
+O O O O O motion O Direction Time O O O O O O O stative O O TIME Purpose social Theme O O O
+ACT stative O O
+B O O O cognition Duration B O O RelativeTime O social O O
+O B communication GROUP O O O O cognition Theme POSSESSION Location LOCATION O O
+GROUP O O stative O O
+O motion Direction
+O stative O O EVENT O O ACT stative O O O O social O O O
+O stative O O FOOD O ARTIFACT Quantity FOOD O O O emotion O
+O O PERSON motion O O TIME O Comparison/Contrast communication O O communication O O O O possession O O POSSESSION O possession stative InitialLocation LOCATION O O O O Purpose O O motion Direction InitialLocation O LOCATION O
+O O O O cognition O ACT social O O stative O PROCESS stative Destination O O ACT Attribute O COGNITION O
+O stative O O PERSON O
+O O stative O O O O O body o O Or O O O Superset O BODY O perception Comparison/Contrast O O body O O
+O GROUP stative O O O O O O PERSON O PERSON O stative O O COGNITION O
+O stative O ACT O Patient O ARTIFACT O O perception O O
+O O communication COMMUNICATION Elements O O O O O O O cognition O O POSSESSION O
+O GROUP 2DArea O LOCATION stative O O O O O PERSON O
+motion O PERSON PERSON Accompanier O O O emotion O O FOOD FOOD O communication O stative O O
+O O PERSON O stative O O O O
+O O O GROUP O Location LOCATION O
+O O POSSESSION stative O O O O O PERSON O social O O O FOOD Value O POSSESSION O
+O communication GROUP TIME O O perception O O O O communication O O O Circumstance communication O COMMUNICATION O O O communication O O O social O O
+O O emotion O Topic O GROUP O Elements O O FOOD O stative O consumption O stative O cognition Comparison/Contrast O stative Location O GROUP O Comparison/Contrast O LOCATION O
+O cognition O O O ARTIFACT O stative O ARTIFACT O Location LOCATION DeicticTime TIME O stative O O Or O motion O O motion Direction O ARTIFACT O O stative O ARTIFACT O O ARTIFACT O O stative O O O O O change O O O O motion O Destination O GROUP Purpose change O ARTIFACT O
+O O O O O O social O O O O O stative O O
+O COGNITION O B O O stative O O O O stative O O communication Co-Agent O PERSON O
+Circumstance O O PERSON O Location O O O O LOCATION O ARTIFACT motion 1DTrajectory O O O O O O social O O O O PERSON O motion 2DArea O O stative O O O
+O social GROUP O Purpose O O PERSON O EVENT NATURAL OBJECT Explanation O O O communication Recipient O O
+O O stative Destination O Explanation O EVENT O O
+O cognition O cognition O O O stative Experiencer O O cognition O O O ARTIFACT O contact O O social o O O
+O GROUP O O social O O O stative O O Stimulus O PERSON O O GROUP O O PERSON O
+O ACT O O O ACT O
+O communication O stative 0 O O communication O EndTime O communication O ARTIFACT 0 O
+O ACT O
+O O O O O stative O
+O stative O B O PERSON O O social O Theme O O O
+O O O stative O Superset O O GROUP O O O stative Destination DeicticTime B O TIME O O ARTIFACT stative O O O stative O O O ARTIFACT O O O ARTIFACT LOCATION O
+O PERSON O O social O Explanation O O O
+stative O O O
+O cognition O O O O O motion O ARTIFACT O communication O perception Stimulus O DeicticTime O
+O O motion Location O O social O Superset O O GROUP O O stative O O O O O O O O social O O O
+O
+O cognition O O consumption O FOOD Circumstance O O EVENT O
+B COGNITION Location LOCATION
+O Superset O O PERSON O social O stative O O B O O O O O stative Theme PERSON O O O stative O O
+O stative O O O O
+motion Direction Purpose stative o ARTIFACT O O O TIME O
+O O O O social o O O Superset EVENT Time O EVENT O cognition O change social O
+motion O O motion O
+O StartState O STATE O communication O GROUP O communication O STATE O
+O O O O O communication Theme O GROUP Attribute O COGNITION O
+O motion Location Purpose ACT O O O O O O O O communication O Topic O ARTIFACT O stative Location O O SUBSTANCE ARTIFACT O
+O O O cognition O O
+stative Location O LOCATION ARTIFACT O Time TIME O O
+O cognition O O stative O O O
+GROUP stative O O PERSON stative O O
+O FOOD stative O O O O motion O O O O
+ARTIFACT COMMUNICATION
+O PERSON O O
+O communication O COGNITION O communication Agent O GROUP 0 O EVENT O communication o COMMUNICATION O 0 O
+O COGNITION O O O O O GROUP O
+O stative O O O O O O O Stimulus O ACT O
+PERSON
+O O O O O O B O GROUP O social O Location LOCATION O
+O O stative Direction O O
+O O O O stative O stative O FOOD FOOD O O O cognition O O O stative social O O cognition O O FOOD O stative O O O O FOOD stative O O
+motion Destination O GROUP O O O TIME Purpose FOOD O FOOD O GROUP stative O O
+B communication O
+O O stative O O cognition COGNITION Location O LOCATION Location O O O LOCATION O O O stative Location O COGNITION O O O O O O GROUP O stative O O O
+cognition O O O motion O O O O O O motion Direction O
+O O O cognition O communication O O social O O cognition O possession O O O possession O O POSSESSION O
+O O social O social O PERSON O
+O FOOD stative Attribute O COGNITION O O GROUP stative O O
+O communication O ATTRIBUTE Recipient O GROUP O GROUP Reciprocation O O ATTRIBUTE O O ARTIFACT Explanation O social stative O O EVENT O O
+O O O O O
+O stative O Location ARTIFACT O Destination LOCATION O O LOCATION O O O O O EVENT O O
+O stative O O GROUP Function stative O ARTIFACT
+O motion O Accompanier O POSSESSION PERSON O possession Time O POSSESSION O O O PERSON stative O O creation O O communication O O O social O O O EVENT O
+O O O PERSON communication O ARTIFACT stative O O 0 O stative O O B O O ARTIFACT 0 O
+O COGNITION O O FOOD stative O O O O
+ACT stative O O O O O O O GROUP O O O O stative O O social O o O Theme social O PERSON Purpose stative O O O O O O O O
+O O stative O B O EVENT Purpose EVENT O O O possession O ARTIFACT O ACT O EVENT O change TIME O
+O stative O COGNITION PERSON O change O Time O TIME O O O PERSON social ProfessionalAspect O GROUP O Time O TIME O
+O O cognition o GROUP O COMMUNICATION O Superset O O
+emotion O O O GROUP Accompanier O GROUP Quantity O GROUP O
+O FOOD O
+O stative O O O O
+PERSON social O ACT O
+O O O social O Approximator O O GROUP O O O
+O O O O cognition O O O O O O O emotion O
+O ARTIFACT stative O O O O ATTRIBUTE O O POSSESSION O
+O PERSON stative O O O
+O social O
+O EVENT stative O O O stative ATTRIBUTE O O Scalar/Rank stative O O EVENT COMMUNICATION O
+O Superset LOCATION B O O
+PERSON stative O PERSON O O O motion Destination O LOCATION O
+PERSON O O GROUP O O B O O O O O O O stative PERSON social O O
+B O O communication O O O stative O O O FOOD Attribute O O POSSESSION O Direction O motion O
+cognition b O O O O O O motion Destination O GROUP O
+PERSON O possession o o o O Attribute O COGNITION O O COGNITION Species COGNITION O
+O PERSON O GROUP
+Circumstance o O O FOOD O stative O O Extent O O O O O
+O GROUP O
+cognition Stimulus O BODY COGNITION O O O cognition O contact O ARTIFACT O Extent O O cognition O B O ACT Possessor body BODY O O O stative O O social O Location O GROUP O
+O O social PERSON
+social o o PERSON cognition RelativeTime O possession O
+O stative Comparison/Contrast O COGNITION O ARTIFACT O O stative O O O O O O
+O O O FOOD
+O O
+O COGNITION GROUP Location O LOCATION O
+GROUP O social O QUANTITY Superset O GROUP O Explanation O O COGNITION Theme PERSON O O O O O O emotion O O
+O O O O ACT ACT GROUP O
+O communication Duration O TIME Explanation O stative LOCATION ARTIFACT O
+O GROUP COMMUNICATION O O O O
+cognition O possession O ARTIFACT O O O ARTIFACT O O
+O O communication O O
+O O RelativeTime O COMMUNICATION O COMMUNICATION O communication O O motion O ARTIFACT O O motion Destination GROUP O O
+O communication Theme O FOOD O Location O FOOD O O O O possession O O
+O cognition O ARTIFACT Purpose O ARTIFACT O O POSSESSION stative O O O O communication O O O possession O POSSESSION O communication O O GROUP Purpose O O COMMUNICATION O
+O O motion emotion O BODY O O
+O ARTIFACT O stative O Circumstance communication O communication Locus O ARTIFACT O Attribute O O ATTRIBUTE O
+O O O motion O O
+COMMUNICATION GROUP stative O O O
+O O communication O O FOOD O O EVENT O stative O O
+O O O
+O O O possession POSSESSION O
+O O O ARTIFACT O COGNITION Species ARTIFACT O O O O O cognition Location O O Superset GROUP O
+O O O O O O stative O O Attribute O COMMUNICATION O FOOD O
+O Recipient O O O PERSON O O O O O O cognition O O ATTRIBUTE cognition Donor/Speaker O GROUP O
